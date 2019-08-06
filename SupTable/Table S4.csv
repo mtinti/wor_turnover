@@ -1,0 +1,695 @@
+prots,locs,BSF,PCF,BSFn,PCFn,desc
+Tb927.1.1370,nucleolus,5.263356091,12.92209978,-0.254229047,-0.254947342,"rRNA biogenesis protein, putative"
+Tb927.1.1530,cytoplasm(reticulated),4.616788316,,-0.664622923,,"STE group serine/threonine-protein kinase, putative"
+Tb927.1.1630,nucleoplasm,3.34128005,8.429365838,-1.474222167,-1.447589895,transcription elongation factor 1 homolog
+Tb927.1.2190,mitochondrion,5.521960907,,-0.090085647,,"Raptor N-terminal CASPase like domain containing protein, putative"
+Tb927.1.2570,endocytic,6.401819732,17.36526089,0.468384304,0.924535595,coatomer beta subunit
+Tb927.1.3070,cytoplasm,3.785493593,10.95304984,-1.192267939,-0.777651952,"hypothetical protein, conserved"
+Tb927.1.3150,cytoplasm(points),,16.45878623,,0.683902548,"hypothetical protein, conserved"
+Tb927.1.3390,cytoplasm(reticulated),5.93920066,,0.174747594,,"Eukaryotic protein of unknown function (DUF866), putative"
+Tb927.1.3830,cytoplasm,8.2236967,14.72486531,1.62477839,0.223615358,"glucose-6-phosphate isomerase, glycosomal"
+Tb927.1.4490,cytoplasm(points),6.395738637,9.403554041,0.464524471,-1.18898159,"acetyltransferase, putative"
+Tb927.1.4720,cytoplasm,5.547360762,,-0.073963679,,"SET domain containing protein, putative"
+Tb927.1.990,axoneme,7.045788771,14.15333915,0.877128693,0.071897846,Enkuring domain-containig protein
+Tb927.10.10200,cytoplasm,3.638370604,,-1.285650839,,"hypothetical protein, conserved"
+Tb927.10.10600,cytoplasm,3.834077126,,-1.16143067,,"ARP2/3 complex 16kDa subunit, putative"
+Tb927.10.10720,endocytic,2.136803129,2.836106088,-2.238735914,-2.932378374,"Tetraspanin family, putative"
+Tb927.10.10730,cytoplasm(reticulated),5.161968599,13.00331274,-0.318582402,-0.233388522,RNA Interference Factor 5
+Tb927.10.11270,cytoplasm,1.641344265,5.247209829,-2.553216919,-2.292326022,"RNA-binding protein, putative"
+Tb927.10.11660,nucleoplasm,4.813695583,10.60531119,-0.539640609,-0.869962762,"hypothetical protein, conserved"
+Tb927.10.11720,nucleoplasm,5.945186726,11.08915313,0.178547111,-0.741521929,"CW-type Zinc Finger, putative"
+Tb927.10.11760,cytoplasm(patchy),4.397880361,11.51375962,-0.803569663,-0.628805758,pumilio/PUF RNA binding protein 6
+Tb927.10.11830,cytoplasm(points),5.006986983,,-0.416953383,,"hypothetical protein, conserved"
+Tb927.10.11890,mitochondrion,7.675289012,,1.276689348,,"hypothetical protein, conserved"
+Tb927.10.12090,cytoplasm,3.551319618,13.2025453,-1.34090443,-0.180500185,"RNA-binding protein, putative"
+Tb927.10.12110,nucleoplasm,4.746770073,,-0.582120022,,"hypothetical protein, conserved"
+Tb927.10.12260,cytoplasm,2.303435639,19.00737652,-2.132969799,1.360452121,"cytosolic nonspecific dipeptidase, putative"
+Tb927.10.12490,cytoplasm(reticulated),5.082080703,8.517688501,-0.369289389,-1.424143733,"kinesin, putative"
+Tb927.10.12660,cytoplasm(patchy),3.216674315,10.74778801,-1.553312763,-0.832140822,pumilio/PUF RNA binding protein 2
+Tb927.10.13140,nucleolus,1.83620974,,-2.429530585,,"hypothetical protein, conserved"
+Tb927.10.13180,nucleolus,5.133197325,10.48530246,-0.3368443,-0.901820318,"Nrap protein, putative"
+Tb927.10.13280,cytoplasm,5.178706668,14.00652758,-0.307958302,0.0329252,"hypothetical protein, conserved"
+Tb927.10.13520,endocytic,3.758773269,,-1.209228044,,"Zn-finger in Ran binding protein and others/FYVE zinc finger, putative"
+Tb927.10.13600,mitochondrion,,8.494124799,,-1.430398961,"hypothetical protein, conserved"
+Tb927.10.13670,cytoplasm,5.662573816,12.23487661,-0.00083487,-0.437377818,serine/threonine protein phosphatase 5
+Tb927.10.13730,nucleolus,2.735434331,3.714130083,-1.858768664,-2.69929785,"60S ribosomal protein L7, putative"
+Tb927.10.13850,mitochondrion,5.175631315,12.7825706,-0.309910311,-0.291986801,"ATP12 chaperone protein, putative"
+Tb927.10.14330,nucleolus,2.860752785,5.605043593,-1.779225687,-2.197335359,"Utp14 protein, putative"
+Tb927.10.15360,nucleoplasm,6.41749549,15.83370974,0.478334128,0.517969547,"hypothetical protein, conserved"
+Tb927.10.15790,cytoplasm(reticulated),,8.820276774,,-1.343818556,"CHCH domain containing protein, putative"
+Tb927.10.15810,nucleolus,,6.655044951,,-1.918601671,"Fcf1, putative"
+Tb927.10.15850,glycosome,7.051478085,16.7343483,0.880739853,0.757053341,Peroxisome biogenesis factor 12
+Tb927.10.1630,cytoplasm,5.575264516,12.75995692,-0.05625242,-0.297989834,atp-binding cassette sub-family e member 1
+Tb927.10.1740,nucleoplasm,5.81009121,,0.09279837,,"hypothetical protein, conserved"
+Tb927.10.1860,cytoplasm(reticulated),4.562007309,,-0.699393895,,"hypothetical protein, conserved"
+Tb927.10.2020,glycosome,10.31234364,25.10830183,2.950498516,2.980005659,hexokinase
+Tb927.10.2180,cytoplasm,6.283858637,,0.393511239,,"Rtr1/RPAP2 family, putative"
+Tb927.10.2240,cytoplasm,5.452727479,15.05764903,-0.134029957,0.31195623,RNA binding protein
+Tb927.10.2260,nucleoplasm,,5.004720381,,-2.356697347,"Ubiquitin family, putative"
+Tb927.10.2750,cytoplasm,4.333440647,,-0.844471274,,deoxyhypusine synthase
+Tb927.10.2770,cytoplasm,3.922631542,10.38020921,-1.105222812,-0.929718404,"eukaryotic translation initiation factor 5, putative"
+Tb927.10.280,cytoplasm(reticulated),,12.72570622,,-0.307082036,cytochrome oxidase subunit VI
+Tb927.10.3170,cytoplasm,5.913789072,12.68299677,0.158618179,-0.318419699,"ABC transporter, putative"
+Tb927.10.3200,nucleoplasm,6.081640694,16.3532624,0.265158097,0.65589016,"U2 splicing auxiliary factor, putative"
+Tb927.10.3230,cytoplasm(patchy),4.613810094,13.32538929,-0.666513281,-0.147889981,"CMGC/MAPK protein kinase, putative"
+Tb927.10.3280,cytoplasm(patchy),5.385311495,11.3889795,-0.176820687,-0.661929929,"60S ribosomal proteins L38, putative"
+Tb927.10.3670,cytoplasm,4.794073106,,-0.552095521,,"hypothetical protein, conserved"
+Tb927.10.3750,cytoplasm(patchy),5.215602105,,-0.28453978,,"Endonuclease/Exonuclease/phosphatase family, putative"
+Tb927.10.3760,cytoplasm(reticulated),5.895703504,13.59600012,0.147138785,-0.076053547,"vacuolar ATP synthase subunit d, putative"
+Tb927.10.3860,endocytic,5.583764032,7.321799787,-0.050857549,-1.741604724,"SNF-7-like protein, putative"
+Tb927.10.4030,mitochondrion,,14.93990462,,0.280699761,hypothetical protein
+Tb927.10.4060,cytoplasm(patchy),4.413248238,11.36386136,-0.79381526,-0.668597799,"Ankyrin repeats (3 copies), putative"
+Tb927.10.4160,cytoplasm(reticulated),2.761616048,,-1.842150428,,predicted zinc finger protein
+Tb927.10.4260,endocytic,6.006569196,,0.217508207,,"hypothetical protein, conserved"
+Tb927.10.430,mitochondrion,,12.67496002,,-0.320553138,"peroxidase, putative"
+Tb927.10.4310,cytoplasm(reticulated),5.936474543,16.3053478,0.173017255,0.643170734,"prohibitin 2, putative"
+Tb927.10.4690,axoneme,7.239154494,,0.999863094,,"dynein light chain, putative"
+Tb927.10.4940,cytoplasm(reticulated),4.338540695,10.76315561,-0.841234137,-0.828061335,Nuclear Dbf2-related kinase
+Tb927.10.5030,cytoplasm(patchy),4.763362556,10.44765801,-0.571588329,-0.911813426,"ubiquitin/ribosomal protein S27a, putative"
+Tb927.10.510,cytoplasm(reticulated),,17.48982075,,0.957601293,Present in the outer mitochondrial membrane proteome 19
+Tb927.10.5300,nucleolus,5.230816401,13.42292295,-0.27488286,-0.121998667,"eukaryotic translation initiation factor 6 (eIF-6), putative"
+Tb927.10.5370,cytoplasm(points),4.710786115,10.35155816,-0.604960004,-0.937324121,"40S ribosomal protein S10, putative"
+Tb927.10.540,nucleoplasm,6.224687843,14.68426769,0.355953952,0.212838303,"ATP-dependent RNA helicase SUB2, putative"
+Tb927.10.5670,cytoplasm,5.707848045,13.64940221,0.027901896,-0.061877412,"N-acetyltransferase subunit Nat1, putative"
+Tb927.10.5840,cytoplasm(patchy),5.927785172,14.88224697,0.167501878,0.265393944,"translation elongation factor 1-beta, putative"
+Tb927.10.6120,cytoplasm(reticulated),2.441866143,,-2.045104252,,"Peptidase M76 family, putative"
+Tb927.10.6340,cytoplasm(reticulated),3.537630764,,-1.349593112,,"hypothetical protein, conserved"
+Tb927.10.6550,cytoplasm(reticulated),4.979899799,,-0.434146344,,"Poly(ADP-ribose) polymerase and DNA-Ligase Zn-finger region/Zinc-finger (CX5CX6HX5H) motif containing protein, putative"
+Tb927.10.6640,endocytic,5.497742321,14.17442313,-0.105457832,0.077494807,transmembrane emp24 domain-containing protein
+Tb927.10.6680,cytoplasm,5.42560438,16.47694699,-0.151245715,0.688723509,member of the NOL1/NOP2/sun family of proteins
+Tb927.10.6870,cytoplasm(patchy),9.446609752,15.31322541,2.400994043,0.379801615,"short-chain dehydrogenase, putative"
+Tb927.10.7020,cytoplasm(points),6.871389121,19.52441334,0.766432566,1.497704877,"acid phosphatase, putative"
+Tb927.10.710,cytoplasm(points),4.672384808,,-0.629334341,,"hypothetical protein, conserved"
+Tb927.10.7140,cytoplasm(patchy),3.525294336,,-1.357423373,,membrane-bound acid phosphatase 2
+Tb927.10.7230,axoneme,6.741491588,22.41953437,0.683983124,2.26624461,Flagellar Member 1
+Tb927.10.7340,cytoplasm(patchy),5.086043458,11.94333409,-0.366774122,-0.514770785,"40S ribosomal protein S24E, putative"
+Tb927.10.7390,mitochondrion,5.559156355,,-0.0664767,,"PHF5-like protein, putative"
+Tb927.10.7450,cytoplasm(patchy),5.55915709,13.90837675,-0.066476234,0.006870051,Ribosomal RNA processing protein 41A
+Tb927.10.7470,cytoplasm(points),5.139960228,9.857204789,-0.332551705,-1.068555322,"RNA-binding protein, putative"
+Tb927.10.7620,cytoplasm(reticulated),2.376242587,5.746391582,-2.08675728,-2.159813078,"mitochondrial ATP-dependent zinc metallopeptidase, putative"
+Tb927.10.7710,nucleolus,1.062023965,2.034934729,-2.920927023,-3.145057572,"40S ribosomal protein S8, putative"
+Tb927.10.790,cytoplasm(points),4.80131474,9.940765973,-0.547499062,-1.046373143,"vesicle-associated membrane protein, putative"
+Tb927.10.8040,endocytic,5.387443124,14.35678945,-0.175467685,0.125905828,"beta adaptin, putative"
+Tb927.10.810,cytoplasm(reticulated),4.906257433,,-0.480889125,,"Pentatricopeptide repeat protein (PPR), putative"
+Tb927.10.8110,mitochondrion,5.582974333,14.59039016,-0.051358792,0.187917545,"Protein of unknown function (DUF2453), putative"
+Tb927.10.8180,cytoplasm(points),6.067528258,,0.256200556,,"hypothetical protein, conserved"
+Tb927.10.8430,nucleoplasm,5.584650126,11.06537646,-0.050295121,-0.747833693,"40S ribosomal protein S12, putative"
+Tb927.10.8570,cytoplasm(reticulated),4.560952722,,-0.700063269,,"hypothetical protein, conserved"
+Tb927.10.8600,mitochondrion,6.300008318,17.41991483,0.403761874,0.939044046,"Vps54-like protein, putative"
+Tb927.10.8650,nucleoplasm,4.387715269,9.561787762,-0.810021719,-1.146976818,"ran binding protein, putative"
+Tb927.10.8660,cytoplasm,4.124591483,9.804997236,-0.97703343,-1.082414355,"Fis1 C-terminal tetratricopeptide repeat, putative"
+Tb927.10.8720,glycosome,6.046529432,15.36623239,0.242872039,0.393872864,"CCR4-NOT transcription complex subunit 10, putative"
+Tb927.10.8730,mitochondrion,7.532072145,,1.185785769,,"ABC1 family, putative"
+Tb927.10.8850,cytoplasm,5.433434425,15.94798022,-0.146275775,0.548303825,"A distinct subfamily of CDD/CDA-like deaminases, putative"
+Tb927.10.8950,cytoplasm(reticulated),4.994504968,,-0.424876052,,kinetoplast-associated protein 4 isoform 1
+Tb927.10.9020,nucleoplasm,5.703433073,9.664866421,0.025099595,-1.119613525,"Gcd10p family, putative"
+Tb927.10.9130,nucleolus,4.685239481,,-0.621175137,,"pre-mRNA splicing factor ATP-dependent RNA helicase, putative"
+Tb927.10.9140,mitochondrion,5.065999785,15.6648517,-0.379496378,0.473144439,"FAD dependent oxidoreductase, putative"
+Tb927.10.9190,cytoplasm,5.281913563,15.03373414,-0.242450123,0.305607775,"isoleucyl-tRNA synthetase, putative"
+Tb927.10.920,nucleolus,3.739102265,8.22941255,-1.221713757,-1.500669557,"Ribosomal protein L1p/L10e family, putative"
+Tb927.10.9250,cytoplasm,5.491560374,16.08840158,-0.109381679,0.585580122,"adenylyl cyclase-associated protein, putative"
+Tb927.10.9260,mitochondrion,4.937265664,16.09121299,-0.461207371,0.586326442,"hypothetical protein, conserved"
+Tb927.10.9370,cytoplasm(reticulated),3.096003932,,-1.629905485,,"hypothetical protein, conserved"
+Tb927.10.9400,nucleoplasm,5.872793062,12.99360942,0.132596914,-0.235964368,splicing factor 1
+Tb927.10.9410,nucleoplasm,6.565645278,,0.572368764,,Selenophosphate synthetase 2
+Tb927.10.9420,mitochondrion,4.706715357,,-0.607543823,,"mitochondrial chaperone BCS1, putative"
+Tb927.10.9780,nucleolus,3.003100517,11.06919201,-1.68887377,-0.746820816,"ATP-dependent DEAD/H RNA helicase, putative"
+Tb927.10.9800,cytoplasm,5.128471364,,-0.339843994,,60S ribosomal protein L22
+Tb927.10.9890,cytoplasm(points),7.395263566,,1.098949701,,"hypothetical protein, conserved"
+Tb927.11.10010,endocytic,5.675121871,16.73878517,0.007129717,0.758231153,"vacuolar sorting-associated protein-like, putative"
+Tb927.11.1010,mitochondrion,7.219698394,16.91905187,0.987513787,0.806084808,"chaperone protein DnaJ, putative"
+Tb927.11.1020,glycosome,5.862845196,18.5743927,0.126282737,1.245512101,"ribokinase, putative"
+Tb927.11.10220,cytoplasm(reticulated),5.899025564,,0.149247385,,"hypothetical protein, conserved"
+Tb927.11.10230,nucleoplasm,6.872180909,15.37509862,0.766935135,0.396226497,"RNA polymerase-associated protein CDC73, putative"
+Tb927.11.10260,glycosome,6.665972413,11.19567136,0.636049083,-0.713245568,"hypothetical protein, conserved"
+Tb927.11.10330,nucleoplasm,5.355681995,13.02728778,-0.195627324,-0.227024102,regulator of chromosome condensation 1-like protein
+Tb927.11.10340,cytoplasm(reticulated),6.520611318,,0.543784504,,"Serine/threonine-protein phosphatase PGAM5, mitochondrial, putative"
+Tb927.11.1050,nucleolus,3.044971807,7.417964568,-1.662296941,-1.716076792,"ribosome production factor 1, putative"
+Tb927.11.1070,glycosome,4.311082571,12.59684765,-0.858662544,-0.341288872,"glycosomal transporter (GAT3), putative"
+Tb927.11.10740,endocytic,4.371346105,,-0.820411666,,"vacuolar sorting-associated protein-like, putative"
+Tb927.11.10770,endocytic,3.534299906,8.370613732,-1.351707297,-1.463186247,"VHS domain containing protein, putative"
+Tb927.11.10780,cytoplasm(points),7.294258915,20.50556131,1.034839345,1.758160725,"Voltage-dependent anion channel, putative"
+Tb927.11.10920,cytoplasm(reticulated),6.621947568,,0.608105335,,"hypothetical protein, conserved"
+Tb927.11.11150,nucleoplasm,5.573601294,,-0.057308111,,U5 snRNP-specific 40 kDa protein
+Tb927.11.11350,cytoplasm(points),5.265990604,,-0.252556851,,"hypothetical protein, conserved"
+Tb927.11.11520,glycosome,5.985552634,17.63689345,0.204168433,0.996643258,glycosomal membrane protein
+Tb927.11.11590,cytoplasm(patchy),5.189371045,11.91324652,-0.301189336,-0.522757841,Eukaryotic translation initiation factor 3 subunit E
+Tb927.11.11610,nucleoplasm,5.789416932,16.61972449,0.079675852,0.72662527,"Cactus-binding C-terminus of cactin protein, putative"
+Tb927.11.11700,cytoplasm,5.924368435,,0.165333184,,"nucleotidyl transferase, putative"
+Tb927.11.11720,endocytic,6.740780011,14.25853954,0.683531467,0.099824375,"FG-GAP repeat protein, putative"
+Tb927.11.11770,cytoplasm,5.960501599,11.54666787,0.18826787,-0.620069923,Eukaryotic translation initiation factor 4E-3
+Tb927.11.12110,cytoplasm,5.261122353,13.19918465,-0.25564686,-0.181392305,"RNA helicase, putative"
+Tb927.11.12500,cytoplasm(points),6.824806649,,0.736865424,,"hypothetical protein, conserved"
+Tb927.11.12540,axoneme,6.01343078,13.87538512,0.221863438,-0.001887918,"leucine-rich repeat protein (LRRP), putative"
+Tb927.11.1270,mitochondrion,4.717751753,15.94877418,-0.600538727,0.54851459,"Mitochondrial ATP synthase subunit, putative"
+Tb927.11.12940,nucleoplasm,5.537000927,12.92550781,-0.080539344,-0.254042643,"Uncharacterised protein family (UPF0160), putative"
+Tb927.11.13060,cytoplasm,4.866477296,15.133827,-0.506138643,0.332178458,"translation-associated element 2, putative"
+Tb927.11.13130,endocytic,6.443322491,10.15623275,0.494727216,-0.989175266,membrane-bound acid phosphatase 1 precursor
+Tb927.11.13180,mitochondrion,6.079567383,13.36660777,0.263842111,-0.13694811,Present in the outer mitochondrial membrane proteome 10
+Tb927.11.13220,cytoplasm(reticulated),6.40788859,12.2786876,0.472236371,-0.425747739,phospholipid:diacylglycerol acyltransferase-like protein
+Tb927.11.13250,cytoplasm(patchy),6.019685055,16.20721041,0.225833194,0.617119153,"eukaryotic translation initiation factor 2 gamma, putative"
+Tb927.11.13290,mitochondrion,4.610651242,,-0.668518288,,mitochondrial import inner membrane translocase subunit tim17
+Tb927.11.13310,nucleolus,1.933729032,,-2.36763248,,"hypothetical protein, conserved"
+Tb927.11.13510,mitochondrion,,15.42964332,,0.41070595,"hypothetical protein, conserved"
+Tb927.11.14020,cytoplasm(patchy),5.175203925,11.03138548,-0.310181587,-0.756856948,nuclear RNA binding domain 2
+Tb927.11.14120,cytoplasm,6.300240702,15.96641229,0.403909374,0.553196809,"phenylalanyl-tRNA synthetase alpha chain, putative"
+Tb927.11.14140,cytoplasm,5.700369831,12.66280551,0.023155273,-0.323779679,ethanolamine-phosphate cytidylyltransferase
+Tb927.11.14250,cytoplasm,5.456174507,15.08481168,-0.131842037,0.319166835,"T-complex protein 1, epsilon subunit, putative"
+Tb927.11.1430,axoneme,6.034807553,16.37249871,0.235431849,0.660996636,Component of motile flagella 2
+Tb927.11.14360,mitochondrion,6.127754396,11.25747454,0.294427698,-0.696839277,mitochondrial carrier protein
+Tb927.11.14580,cytoplasm,5.661725207,11.43457909,-0.001373504,-0.649825046,Bifunctional Monophosphate RNA Kinase/RNA guanylyltransferase
+Tb927.11.14590,cytoplasm(points),5.241083942,12.96821144,-0.268365776,-0.242706524,G5-interacting protein
+Tb927.11.14700,mitochondrion,,15.754849,,0.49703515,"hypothetical protein, conserved"
+Tb927.11.14870,cytoplasm,6.273171973,12.69623895,0.386728128,-0.314904426,"NAD+ synthase, putative"
+Tb927.11.14900,endocytic,6.05053119,14.03908172,0.245412062,0.041567035,coatomer subunit epsilon
+Tb927.11.14910,cytoplasm(reticulated),5.695326412,,0.01995408,,"protein phosphatase 2C, putative"
+Tb927.11.14950,glycosome,4.765246011,,-0.57039285,,zinc finger protein 2
+Tb927.11.14960,nucleolus,5.288329198,9.063461826,-0.238377947,-1.279262576,"pumilio/PUF RNA binding protein 7, putative"
+Tb927.11.15210,cytoplasm(reticulated),5.288230151,,-0.238440815,,"TLR4 regulator and MIR-interacting MSAP, putative"
+Tb927.11.15420,cytoplasm,4.70567521,10.33029575,-0.608204032,-0.942968448,eukaryotic translation initiation factor 3 subunit k
+Tb927.11.1550,cytoplasm,,9.341893037,,-1.20535014,"XRN 5'-3' exonuclease N-terminus, putative"
+Tb927.11.15580,nucleoplasm,4.356567963,10.17909768,-0.829791747,-0.983105535,TFIIF-like transcription factor subunit 2
+Tb927.11.15700,mitochondrion,,13.25117781,,-0.167590183,"hypothetical protein, conserved"
+Tb927.11.15770,nucleolus,3.40489592,,-1.433843471,,"hypothetical protein, conserved"
+Tb927.11.15870,cytoplasm(reticulated),6.85589955,14.68081102,0.756600921,0.211920694,"hypothetical protein, conserved"
+Tb927.11.15940,cytoplasm(reticulated),4.729091124,11.92643364,-0.593341324,-0.519257184,"hypothetical protein, conserved"
+Tb927.11.15970,cytoplasm,5.619717798,,-0.028036731,,"Guanine nucleotide exchange factor in Golgi transport N-terminal/Sec7 domain containing protein, putative"
+Tb927.11.16040,cytoplasm,5.109830898,11.13471117,-0.351675597,-0.72942808,"prefoldin subunit, putative"
+Tb927.11.16170,cytoplasm(reticulated),4.368096043,,-0.822474567,,"hypothetical protein, conserved"
+Tb927.11.1620,mitochondrion,5.318565311,11.56297861,-0.219186277,-0.61574007,"hypothetical protein, conserved"
+Tb927.11.16380,mitochondrion,5.924766809,,0.165586042,,"TPR repeat, putative"
+Tb927.11.16400,cytoplasm(points),6.085001284,16.55105425,0.267291154,0.708396046,"kinetoplast-associated protein 3, putative"
+Tb927.11.16550,cytoplasm(points),4.929550638,19.79529619,-0.466104305,1.569613524,"Zinc finger protein, C3H1 type-like"
+Tb927.11.16590,nucleoplasm,7.706946197,,1.296783011,,"RNA-binding protein, putative"
+Tb927.11.16640,endocytic,9.50214583,,2.436244278,,"Uncharacterised protein family UPF0564, putative"
+Tb927.11.16670,cytoplasm,5.1193929,8.887737256,-0.345606338,-1.325910475,"hypothetical protein, conserved"
+Tb927.11.16760,cytoplasm,4.948651497,13.67807003,-0.453980478,-0.054267243,"T-complex protein 1, alpha subunit, putative"
+Tb927.11.1680,cytoplasm(reticulated),6.93283369,13.47892517,0.805433079,-0.107132298,"vesicular-fusion protein SEC18, putative"
+Tb927.11.1900,cytoplasm,5.07483389,14.4204693,-0.373889135,0.142810299,"T-complex protein 1, beta subunit, putative"
+Tb927.11.2110,endocytic,4.468916699,15.90020267,-0.758480997,0.535620783,"Snf7, putative"
+Tb927.11.2120,nucleolus,4.049265588,9.41217607,-1.024844792,-1.186692784,"CBF/Mak21 family, putative"
+Tb927.11.230,nucleoplasm,6.951462419,,0.817257232,,cleavage and polyadenylation specificity factor subunit 2
+Tb927.11.2360,cytoplasm(patchy),5.986861829,17.77280067,0.204999414,1.032721231,"phenylalanyl-tRNA synthetase (beta subunit), putative"
+Tb927.11.2470,nucleoplasm,6.666305396,18.03263194,0.636260436,1.101696122,"metallo-peptidase, Clan MF, Family M17"
+Tb927.11.2580,mitochondrion,,19.08660611,,1.381484432,Present in the outer mitochondrial membrane proteome 11
+Tb927.11.2630,cytoplasm(points),3.445746497,,-1.407914516,,"diphthamide biosynthesis enzyme Dph1/Dph2 domain containing protein, putative"
+Tb927.11.2660,endocytic,5.663369898,13.35288231,-0.000329575,-0.140591676,"Golgi reassembly stacking protein (GRASP homologue), putative"
+Tb927.11.2670,nucleoplasm,6.762301885,13.97732242,0.697191977,0.025172391,Nucleoporin NUP59
+Tb927.11.3120,nucleolus,,3.540247668,,-2.74545673,nucleolar GTP-binding protein 1
+Tb927.11.3130,glycosome,4.940022572,15.83310815,-0.459457488,0.51780985,glycosomal transporter (GAT2)
+Tb927.11.3250,axoneme,6.629103955,17.03562663,0.612647685,0.83703078,"dynein heavy chain, putative"
+Tb927.11.3350,endocytic,5.752885992,,0.056488687,,"phospholipid-transporting ATPase 1-like protein, putative"
+Tb927.11.3360,axoneme,7.175412081,14.10106301,0.959404078,0.058020607,Component of motile flagella 22
+Tb927.11.3430,nucleoplasm,5.182430502,,-0.305594685,,"hypothetical protein, conserved"
+Tb927.11.3470,endocytic,6.007975344,,0.218400727,,"endosomal integral membrane protein, putative"
+Tb927.11.350,mitochondrion,3.387516071,12.40984117,-1.444874927,-0.390931671,"RNA-binding protein, putative"
+Tb927.11.3510,endocytic,6.095128709,14.74563822,0.273719301,0.229129744,"hypothetical protein, conserved"
+Tb927.11.3580,cytoplasm,6.707037079,14.66598499,0.662113926,0.207984972,"Thiamin pyrophosphokinase, vitamin B1 binding domain containing protein, putative"
+Tb927.11.3670,mitochondrion,6.013459293,,0.221881537,,"hypothetical protein, conserved"
+Tb927.11.3700,cytoplasm(points),5.24322119,12.94983767,-0.267009207,-0.247584031,"Uncharacterised ACR, YagE family COG1723, putative, unspecified product"
+Tb927.11.3710,axoneme,6.342139525,13.98419481,0.430503679,0.026996738,"hypothetical protein, conserved"
+Tb927.11.3830,nucleolus,5.452231423,10.59297892,-0.134344818,-0.873236492,"hypothetical protein, conserved"
+Tb927.11.3970,nucleoplasm,6.148727387,13.10028984,0.307739817,-0.207644952,"hypothetical protein, conserved"
+Tb927.11.4320,mitochondrion,6.554054649,15.86627416,0.565011881,0.52661411,"Uncharacterized ACR, COG1678, putative"
+Tb927.11.4330,mitochondrion,4.225948823,16.01207606,-0.912699213,0.565318727,"hypothetical protein, conserved"
+Tb927.11.4530,cytoplasm(patchy),5.664347148,14.39523394,0.000290712,0.136111313,N-acetyltransferase subunit ARD1
+Tb927.11.4680,mitochondrion,,15.19232757,,0.347708036,"SURF1 family, putative"
+Tb927.11.4850,mitochondrion,8.297652372,14.12581041,1.671720034,0.064590059,"hypothetical protein, conserved"
+Tb927.11.4900,cytoplasm(patchy),5.481334273,14.76907712,-0.115872459,0.235351841,WD40/YVTN repeat-like-containing protein
+Tb927.11.4910,cytoplasm,5.838099813,13.90245538,0.11057618,0.005298163,predicted ankyrin repeat family protein
+Tb927.11.5000,axoneme,7.616118027,19.69310427,1.23913194,1.542485625,"Dynein intermediate chain 1, axonemal"
+Tb927.11.5520,cytoplasm(points),6.112049102,17.45780458,0.284459128,0.94910227,triosephosphate isomerase
+Tb927.11.5650,nucleoplasm,6.478825138,11.39724189,0.517261697,-0.659736593,"replication factor C, subunit 1, putative"
+Tb927.11.5680,axoneme,6.337790065,14.99536306,0.42774296,0.295421776,"dynein light chain 1, axonemal"
+Tb927.11.5710,mitochondrion,5.549298532,17.42189195,-0.072733725,0.939568894,"chaperone protein DnaJ, putative"
+Tb927.11.5910,endocytic,6.655797457,,0.629590766,,"WASH complex subunit 7, N-terminal/WASH complex subunit 7/WASH complex subunit 7, C-terminal, putative"
+Tb927.11.6050,axoneme,6.998338233,14.60823112,0.847010567,0.192653612,"Flagellar-associated PapD-like, putative"
+Tb927.11.620,cytoplasm,4.815029493,16.95353014,-0.538793941,0.815237419,Regulatory-associated protein of TOR1
+Tb927.11.6390,cytoplasm(reticulated),5.95438581,17.00182255,0.184386015,0.828057139,"START domain containing protein, putative"
+Tb927.11.6420,nucleoplasm,3.874231661,4.256312124,-1.135943512,-2.555370036,"hypothetical protein, conserved"
+Tb927.11.6590,cytoplasm,6.139513159,18.80151178,0.3018913,1.305803203,"metallo-peptidase, Clan MF, Family M17"
+Tb927.11.6680,endocytic,,1.869184862,,-3.189057584,"amino acid permease/transporter, putative"
+Tb927.11.6850,mitochondrion,,14.39603511,,0.136323991,"Optic atrophy 3 protein (OPA3), putative"
+Tb927.11.6970,mitochondrion,7.018221356,,0.859630917,,NADH-cytochrome b5 reductase-like protein
+Tb927.11.7150,cytoplasm,6.062423275,18.04873993,0.252960287,1.105972153,NGG1 interacting factor 3-like
+Tb927.11.7210,cytoplasm(patchy),5.887070209,11.35382249,0.141659001,-0.671262718,"eukaryotic translation initiation factor 2-alpha kinase 1, putative"
+Tb927.11.7280,nucleoplasm,6.4714856,,0.512603096,,"DNA-direcetd RNA polymerase II, subunit 9, putative"
+Tb927.11.7350,nucleoplasm,6.019266368,16.03325015,0.225567443,0.570939606,Histone H2B variant V
+Tb927.11.7500,endocytic,,11.04759771,,-0.752553245,"Protein of unknown function (DUF423), putative"
+Tb927.11.7780,mitochondrion,5.545730839,27.44206014,-0.074998235,3.599525867,Mitochondrial import receptor subunit ATOM46
+Tb927.11.7840,nucleoplasm,5.873084485,12.72114137,0.132781888,-0.308293822,ribonucleoside-diphosphate reductase large chain
+Tb927.11.7850,nucleolus,6.187332564,13.88300123,0.332243557,0.000133857,"hypothetical protein, conserved"
+Tb927.11.8030,axoneme,6.2037978,18.0741344,0.342694483,1.112713377,"hypothetical protein, conserved"
+Tb927.11.870,mitochondrion,4.927307936,10.31614622,-0.467527808,-0.946724587,mitochondrial ribosomal protein l23
+Tb927.11.8820,endocytic,6.715227454,,0.667312575,,"glutathionylspermidine synthetase, putative"
+Tb927.11.9130,nucleoplasm,7.382681628,15.66484431,1.090963608,0.473142477,Replication factor A protein 1
+Tb927.11.9170,cytoplasm(patchy),6.603428815,15.36856964,0.596350987,0.39449331,"DNA topoisomerase III, putative"
+Tb927.11.9210,nucleolus,4.755226427,11.00598062,-0.576752548,-0.76360093,"NOL1/NOP2/sun family, putative"
+Tb927.11.9300,cytoplasm(points),6.213947981,,0.349137074,,"Domain of unknown function (DUF3342), putative"
+Tb927.11.9360,mitochondrion,5.883657184,13.32924917,0.139492663,-0.146865337,"prenyltransferase, putative"
+Tb927.11.9560,mitochondrion,7.021934099,,0.861987494,,"oxidoreductase, putative"
+Tb927.11.9610,cytoplasm(patchy),4.592568791,12.56608257,-0.679995704,-0.349455779,eukaryotic translation initiation factor 3 subunit i
+Tb927.11.9710,cytoplasm(patchy),5.297808305,12.03060307,-0.232361305,-0.491604336,"60S ribosomal protein L10a, putative"
+Tb927.11.9730,cytoplasm(patchy),6.071788482,13.25815208,0.258904635,-0.165738793,"60S ribosomal protein L34, putative"
+Tb927.2.1890,cytoplasm,5.234455669,,-0.272572918,,E2-like ubiquitin-conjugation enzyme
+Tb927.2.2190,nucleoplasm,5.954162685,,0.184244392,,histone deacetylase 3
+Tb927.2.2200,cytoplasm,3.21591056,9.653614204,-1.553797539,-1.122600542,"hypothetical protein, conserved"
+Tb927.2.2670,nucleoplasm,9.604463414,17.22578875,2.501187988,0.887511277,histone H4 variant
+Tb927.2.2990,nucleoplasm,6.342281731,11.79811014,0.430593941,-0.553321983,"hypothetical protein, conserved"
+Tb927.2.3480,nucleoplasm,5.663889137,,0,,"transcription elongation factor s-II, putative"
+Tb927.2.3620,cytoplasm(reticulated),5.419874544,13.18969477,-0.154882595,-0.183911492,"GTP-binding elongation factor Tu family, putative"
+Tb927.2.3780,cytoplasm,4.876245645,15.31655419,-0.49993841,0.380685273,"translation initiation factor IF-2, putative"
+Tb927.2.4370,cytoplasm(points),5.844555367,19.75035505,0.114673693,1.557683434,trypanothione synthetase
+Tb927.2.4400,cytoplasm(reticulated),2.588413299,15.06694708,-1.952086849,0.314424493,"SSU ribosomal protein, mitochondrial, putative"
+Tb927.2.4530,cytoplasm(points),6.003059255,15.2195233,0.215280354,0.354927424,"hypothetical protein, conserved"
+Tb927.2.4550,nucleolus,3.108419269,7.735704497,-1.622025139,-1.631729451,2'-O-ribose RNA methyltransferase SPB1 homolog
+Tb927.2.4710,nucleoplasm,5.956573751,17.08036817,0.18577476,0.848907883,"RNA-binding protein, putative"
+Tb927.2.4830,mitochondrion,4.669011217,9.141150534,-0.63147565,-1.258639307,"TFIIF-stimulated CTD phosphatase, putative"
+Tb927.2.5030,nucleoplasm,6.179382688,13.57277944,0.327197558,-0.082217716,"transcription elongation factor SPT5, putative"
+Tb927.2.5150,cytoplasm(points),5.395013551,11.35025617,-0.170662533,-0.672209435,"TPR-repeat protein, putative"
+Tb927.2.5240,nucleoplasm,6.589549075,17.15460346,0.587541144,0.868614406,pre-mRNA splicing factor 19
+Tb927.2.560,cytoplasm(reticulated),6.185800774,14.93190346,0.331271289,0.278575772,"retrotransposon hot spot protein 4 (RHS4), putative"
+Tb927.2.5850,nucleoplasm,5.701456292,13.24276226,0.023844879,-0.16982418,small nuclear ribonucleoprotein SmD2
+Tb927.2.5910,cytoplasm(patchy),4.941097948,13.53602161,-0.458774918,-0.091975459,"40S ribosomal protein S13, putative"
+Tb927.2.6100,cytoplasm(points),3.622633689,7.056005878,-1.29563948,-1.812162459,"hypothetical protein, conserved"
+Tb927.3.1030,cytoplasm(patchy),3.874974729,8.943846004,-1.135471867,-1.311015829,RNA-binding protein
+Tb927.3.1080,mitochondrion,6.468176891,,0.51050297,,Present in the outer mitochondrial membrane proteome 23
+Tb927.3.1140,nucleoplasm,5.246032185,14.26387326,-0.265224994,0.101240266,"Surp module, putative"
+Tb927.3.1310,endocytic,5.986564437,,0.204810652,,"hypothetical protein, conserved"
+Tb927.3.1340,nucleoplasm,6.441064053,11.53439212,0.493293725,-0.623328649,Nuclear cap-binding protein subunit 66
+Tb927.3.1370,cytoplasm(patchy),4.849056943,9.643784141,-0.517195808,-1.125210033,"40S ribosomal protein S25, putative"
+Tb927.3.1760,cytoplasm(points),4.954296992,,-0.450397131,,"chaperone protein DnaJ, putative"
+Tb927.3.1830,cytoplasm(reticulated),6.331609198,,0.423819798,,"hypothetical protein, conserved"
+Tb927.3.1900,axoneme,7.355723792,14.72992601,1.073852749,0.224958775,"conserved protein, unknown function"
+Tb927.3.1940,mitochondrion,,14.55172334,,0.177653037,"TLP18.3, Psb32 and MOLO-1 founding proteins of phosphatase, putative"
+Tb927.3.2080,mitochondrion,,13.93162208,,0.013040763,"hypothetical protein, conserved"
+Tb927.3.2150,cytoplasm(reticulated),5.148647627,16.34605427,-0.32703758,0.653976686,"protein phosphatase 2C, putative"
+Tb927.3.2180,mitochondrion,6.273977411,12.26432475,0.38723936,-0.429560505,"Mitochondrial ATP synthase subunit, putative"
+Tb927.3.2310,axoneme,6.396639812,15.4453327,0.46509647,0.414870858,parkin coregulated gene protein
+Tb927.3.2470,nucleolus,4.638862548,10.69602658,-0.650611817,-0.845881426,Pumilio homology domain family member 8
+Tb927.3.2600,cytoplasm(patchy),5.915603222,11.97498596,0.159769669,-0.506368471,"ATP-dependent DEAD/H RNA helicase, putative"
+Tb927.3.2660,cytoplasm,4.664743837,12.30085043,-0.63418427,-0.419864387,"TatD related DNase, putative"
+Tb927.3.2890,axoneme,7.649703472,14.85488394,1.260449522,0.258130146,"radial spoke protein RSP10, putative"
+Tb927.3.3040,axoneme,6.334537237,,0.425678303,,"Right handed beta helix region, putative"
+Tb927.3.3280,cytoplasm(reticulated),4.588791023,10.54296549,-0.682393555,-0.886513072,"vacuolar protein sorting-associated protein 4, putative"
+Tb927.3.3320,cytoplasm(patchy),4.640523974,11.63047866,-0.649557265,-0.597821485,"60S ribosomal protein L13, putative"
+Tb927.3.3410,cytoplasm(points),6.205866781,14.78233226,0.34400772,0.238870553,"aspartyl aminopeptidase, putative"
+Tb927.3.3480,nucleoplasm,4.534574855,,-0.716806008,,"U2 small nuclear ribonucleoprotein B, putative"
+Tb927.3.3510,cytoplasm,,8.067609157,,-1.543621936,"hypothetical protein, conserved"
+Tb927.3.3610,cytoplasm(points),5.942949111,16.40086831,0.177126837,0.668527639,"peroxisomal targeting signal 2 receptor, putative"
+Tb927.3.3660,mitochondrion,,7.55431798,,-1.679880372,"NADH-ubiquinone oxidoreductase complex I subunit, putative"
+Tb927.3.3850,endocytic,5.504015454,11.98672362,-0.101476107,-0.503252587,COPII coat assembly protein sec16
+Tb927.3.3900,mitochondrion,7.01630867,20.33357958,0.858416884,1.712506399,"carnitine O-palmitoyltransferase II, putative"
+Tb927.3.4000,endocytic,5.783651302,,0.076016253,,"clathrin coat assembly protein ap19, putative"
+Tb927.3.4360,cytoplasm(patchy),6.644569953,12.65666783,0.622464368,-0.32540899,"40S ribosomal protein S15A, putative"
+Tb927.3.4380,mitochondrion,,16.52714483,,0.702049044,"sorting assembly machinery 50 kDa subunit, putative"
+Tb927.3.4680,cytoplasm,5.231810368,16.4926318,-0.274251962,0.692887204,"RAB GDP dissociation inhibitor alpha, putative"
+Tb927.3.4940,cytoplasm,7.26009259,16.29336834,1.013153064,0.639990664,"5-histidylcysteine sulfoxide synthase, putative"
+Tb927.3.5020,axoneme,7.647897212,16.80370096,1.25930304,0.77546372,Flagellar Member 6
+Tb927.3.5150,cytoplasm,4.621463001,,-0.661655776,,"exonuclease, putative"
+Tb927.3.5250,cytoplasm(reticulated),2.908795058,9.202495989,-1.74873197,-1.242354524,Zinc finger CCCH domain-containing protein 8
+Tb927.3.5270,nucleoplasm,,12.04674155,,-0.48732021,"DNA-directed RNA polymerases II subunit, putative"
+Tb927.3.5280,nucleoplasm,5.937798914,14.37193189,0.173857869,0.129925543,"spliceosome-associated protein 49, putative"
+Tb927.3.5530,cytoplasm(reticulated),5.194935083,13.86201322,-0.297657693,-0.005437626,Tb-292 membrane associated protein
+Tb927.3.5580,cytoplasm,6.005363293,13.7049273,0.216742788,-0.047137702,tryptophanyl-tRNA synthetase
+Tb927.3.5640,cytoplasm,4.463637941,15.83802797,-0.761831566,0.519115865,"nuclear transcription factor, putative"
+Tb927.3.720,glycosome,4.450911329,13.72819095,-0.769909488,-0.040962128,zinc finger protein 3
+Tb927.3.760,nucleoplasm,6.212931711,16.08486834,0.348492021,0.584642187,"hypothetical protein, conserved"
+Tb927.3.810,mitochondrion,6.783225054,,0.710472473,,"hypothetical protein, conserved"
+Tb927.3.930,axoneme,6.927030094,17.0012866,0.801749381,0.827914865,"dynein heavy chain, putative"
+Tb927.4.1180,cytoplasm(points),4.192739097,12.72077688,-0.933778315,-0.308390582,"Programmed cell death protein 2, C-terminal putative domain containing protein, putative"
+Tb927.4.1250,cytoplasm(points),6.669961337,17.77000271,0.63858096,1.031978483,"peroxisome biogenesis factor 1, putative"
+Tb927.4.1280,cytoplasm(points),,11.81973417,,-0.547581658,"Tetratricopeptide repeat, putative"
+Tb927.4.1330,nucleoplasm,5.221661924,12.52138053,-0.280693451,-0.361322397,"DNA topoisomerase IB, large subunit"
+Tb927.4.1340,nucleoplasm,5.506000123,8.89179918,-0.100216384,-1.324832196,"cleavage and polyadenylation specificity factor subunit, putative"
+Tb927.4.1360,glycosome,7.66526283,18.11873414,1.270325463,1.124552838,"Glucose-6-phosphate 1-epimerase, putative"
+Tb927.4.1460,cytoplasm(points),7.283120749,,1.027769653,,"Zn-finger in ubiquitin-hydrolases and other protein, putative"
+Tb927.4.1540,mitochondrion,5.676233719,14.32638721,0.007835437,0.117835238,"NAD dependent epimerase/dehydratase family, putative"
+Tb927.4.1610,cytoplasm,8.643938992,14.41391805,1.891517423,0.141071201,Tripartite attachment complex 40
+Tb927.4.1660,mitochondrion,6.284805131,,0.394112004,,"mitochondrial carrier protein, putative"
+Tb927.4.1740,axoneme,6.15045983,15.83386634,0.308839445,0.518011118,Component of motile flagella 41
+Tb927.4.1890,cytoplasm(reticulated),6.095400986,15.66695481,0.273892123,0.473702731,"hypothetical protein, conserved"
+Tb927.4.1940,cytoplasm,6.476075814,14.21831579,0.515516627,0.089146565,"WD domain, G-beta repeat, putative"
+Tb927.4.1950,cytoplasm(points),7.152059015,,0.944581262,,NADPH-dependent diflavin oxidoreductase 1
+Tb927.4.2030,cytoplasm(patchy),5.990398754,,0.207244395,,DNA/RNA-binding protein Alba 4
+Tb927.4.2040,glycosome,6.807908954,17.81142092,0.726140005,1.042973374,DNA/RNA-binding protein Alba 3
+Tb927.4.2410,cytoplasm(points),,12.04896535,,-0.48672988,"Glycosyl hydrolase family 65 central catalytic domain/Haloacid dehalogenase-like hydrolase, putative"
+Tb927.4.2760,mitochondrion,4.671701783,,-0.629767876,,"Protein of unknown function (DUF3808), putative"
+Tb927.4.3160,cytoplasm(points),,14.94944892,,0.283233396,"dihydroxyacetone phosphate acyltransferase, putative"
+Tb927.4.3390,mitochondrion,5.815392386,,0.096163168,,"tuzin, putative"
+Tb927.4.360,axoneme,5.921680105,15.41924637,0.163626829,0.407945971,"1,2-Dihydroxy-3-keto-5-methylthiopentene dioxygenase, putative"
+Tb927.4.3840,nucleolus,6.121541458,10.95501937,0.29048418,-0.77712912,"nucleolar protein, putative"
+Tb927.4.3900,nucleoplasm,,15.27535422,,0.369748316,"hypothetical protein, conserved"
+Tb927.4.4100,mitochondrion,5.78799933,,0.078776062,,"hypothetical protein, conserved"
+Tb927.4.4120,nucleoplasm,4.150143944,,-0.960814599,,"Cleavage stimulating factor 64, putative"
+Tb927.4.4190,axoneme,4.238283859,,-0.904869835,,"C2 domain containing protein, putative"
+Tb927.4.4490,endocytic,5.664210079,17.29887182,0.00020371,0.906911931,multidrug resistance protein E
+Tb927.4.4560,cytoplasm(reticulated),4.229101213,12.41388116,-0.910698306,-0.389859215,"hypothetical protein, conserved"
+Tb927.4.4570,cytoplasm(reticulated),3.170049369,,-1.582906864,,"hypothetical protein, conserved"
+Tb927.4.4610,cytoplasm(reticulated),4.54317421,,-0.711347767,,"LSU ribosomal protein, mitochondrial, putative"
+Tb927.4.4930,nucleoplasm,8.54296158,,1.827424356,,"symplekin, putative"
+Tb927.4.4940,cytoplasm(points),,7.454719726,,-1.706319756,SUMO-interacting motif-containing protein
+Tb927.4.4980,mitochondrion,5.936021814,,0.172729895,,"NADH-ubiquinone oxidoreductase complex I subunit, putative"
+Tb927.4.5020,nucleoplasm,3.738746969,,-1.221939273,,DNA-directed RNA polymerase II subunit RPB1
+Tb927.4.5070,cytoplasm(patchy),4.760305671,,-0.573528616,,"CRAL/TRIO domain containing protein, putative"
+Tb927.4.5170,cytoplasm(reticulated),3.97143662,13.89141865,-1.074244922,0.002368349,"ribosomal protein L7/L12, putative"
+Tb927.4.600,mitochondrion,6.287518402,16.53559092,0.39583419,0.704291146,"Alpha/beta hydrolase family, putative"
+Tb927.4.630,mitochondrion,6.6086107,16.16282814,0.599640067,0.605337422,conserved protein
+Tb927.4.750,nucleolus,4.832549373,,-0.527673605,,"50S ribosomal protein L7Ae, putative"
+Tb927.4.760,endocytic,5.670265378,,0.004047171,,"AP-1 adapter complex gamma subunit, putative"
+Tb927.4.770,nucleolus,2.328782357,,-2.116881558,,"ubiquitin-protein ligase, putative"
+Tb927.4.800,cytoplasm(reticulated),5.094319723,,-0.361520955,,"target of rapamycin kinase 3, putative"
+Tb927.4.890,nucleoplasm,5.210209692,14.3973953,-0.287962489,0.136685068,small nuclear ribonucleoprotein sm d3
+Tb927.5.1060,cytoplasm(reticulated),,17.45212872,,0.947595556,"mitochondrial processing peptidase, beta subunit, putative"
+Tb927.5.1090,cytoplasm,5.91611315,19.1986682,0.160093334,1.411232472,"threonyl-tRNA synthetase, putative"
+Tb927.5.1100,cytoplasm(points),3.216164781,8.522196216,-1.553636178,-1.422947114,peroxisome targeting signal 1 receptor
+Tb927.5.1300,endocytic,6.434186867,16.44499214,0.488928591,0.680240764,"V-type proton ATPase subunit a, putative"
+Tb927.5.1340,nucleoplasm,,13.13850787,,-0.197499583,"pre-mRNA splicing factor, putative"
+Tb927.5.1560,nucleolus,4.16800778,7.052195184,-0.949475944,-1.813174046,"ATP-dependent DEAD/H RNA helicase, putative"
+Tb927.5.1660,cytoplasm,4.711993205,10.30465075,-0.604193831,-0.949776177,"protein phosphatase 2C, putative"
+Tb927.5.1700,nucleoplasm,5.719749723,16.39734066,0.03545621,0.667591186,"replication Factor A 28 kDa subunit, putative"
+Tb927.5.2060,nucleoplasm,5.627905787,13.24147476,-0.022839596,-0.170165958,Cell division cycle 5-like protein
+Tb927.5.2070,mitochondrion,,14.98243514,,0.291989927,"LSU ribosomal protein, mitochondrial, putative"
+Tb927.5.2150,mitochondrion,3.721551776,10.0151828,-1.232853522,-1.026618429,"hypothetical protein, conserved"
+Tb927.5.2270,axoneme,6.646516307,17.14340127,0.623699771,0.86564067,Component of motile flagella 44
+Tb927.5.2290,nucleoplasm,6.600978712,15.07668279,0.594795841,0.317008938,"ATP-dependent RNA helicase, putative"
+Tb927.5.2320,cytoplasm(reticulated),5.837876107,13.65298603,0.110434188,-0.060926049,"Mak10 subunit, NatC N(alpha)-terminal acetyltransferase, putative"
+Tb927.5.2380,mitochondrion,6.177655009,14.98181413,0.326100953,0.291825074,"hydrolase, alpha/beta fold family, putative"
+Tb927.5.2570,cytoplasm(patchy),4.859764636,14.22122266,-0.510399348,0.089918223,eukaryotic translation initiation factor 3 subunit b
+Tb927.5.2620,cytoplasm(points),3.752235783,3.80775352,-1.213377561,-2.674444543,"hypothetical protein, conserved"
+Tb927.5.2850,axoneme,6.528577464,15.20353657,0.54884083,0.350683582,"radial spoke protein RSP2, putative"
+Tb927.5.2960,cytoplasm,7.820895915,14.08710593,1.369109948,0.054315556,"phosphoribosylpyrophosphate synthetase, putative"
+Tb927.5.2990,cytoplasm(points),5.955437094,,0.185053294,,"hypothetical protein, conserved"
+Tb927.5.3090,endocytic,6.356695404,14.37010477,0.439742685,0.129440516,"Mitochondrial ATP synthase subunit, putative"
+Tb927.5.3120,cytoplasm,4.868887856,10.88692616,-0.504608597,-0.795205166,"eukaryotic translation initiation factor 2 beta subunit, putative"
+Tb927.5.3170,cytoplasm,5.722129353,15.50405324,0.036966624,0.430458831,"ribose-phosphate pyrophosphokinase, putative"
+Tb927.5.3230,nucleolus,7.288702869,11.51463083,1.031312774,-0.628574486,"hypothetical protein, conserved"
+Tb927.5.3240,nucleoplasm,4.321812255,11.83942547,-0.851852126,-0.542354401,"hypothetical protein, conserved"
+Tb927.5.3250,nucleoplasm,6.174790108,13.48413212,0.324282524,-0.10575006,"hypothetical protein, conserved"
+Tb927.5.3280,cytoplasm(points),5.667714696,,0.002428185,,Basal body protein
+Tb927.5.3410,mitochondrion,5.48578995,15.59068295,-0.113044322,0.453455581,Mitochondrial ribosomal protein L9
+Tb927.5.360,cytoplasm(points),2.410533959,,-2.064991628,,75 kDa invariant surface glycoprotein
+Tb927.5.3610,endocytic,5.632177779,13.4719803,-0.020128047,-0.108975887,"adaptor complex protein (AP) 3 delta subunit 1, putative"
+Tb927.5.3650,cytoplasm(points),4.510499415,,-0.732087334,,"hypothetical protein, conserved"
+Tb927.5.3730,cytoplasm(reticulated),7.136177777,16.17940653,0.934501015,0.609738325,"hypothetical protein, conserved"
+Tb927.5.3800,cytoplasm,4.143881366,15.21499387,-0.964789625,0.353725039,"glutamine hydrolysing (not ammonia-dependent) carbomoyl phosphate synthase, putative"
+Tb927.5.3820,cytoplasm(reticulated),5.587936522,17.19772573,-0.048209158,0.880061657,"aspartate carbamoyltransferase, putative"
+Tb927.5.4120,mitochondrion,5.300342829,14.93611387,-0.230752574,0.279693467,"LSU ribosomal protein, mitochondrial, putative"
+Tb927.5.4270,nucleolus,4.557909869,8.944228723,-0.70199465,-1.310914233,"ATP-dependent DEAD/H RNA helicase, putative"
+Tb927.5.4310,cytoplasm(reticulated),,5.707946901,,-2.170018615,"GTP-binding protein, putative"
+Tb927.5.4320,nucleoplasm,6.887574403,,0.776705798,,Pre-mRNA polyadenylation factor FIP1
+Tb927.5.4450,cytoplasm(points),4.636558312,12.47188047,-0.652074377,-0.3744627,"hypothetical protein, conserved"
+Tb927.5.530,mitochondrion,4.937808789,14.12259318,-0.460862635,0.063736011,"hypothetical protein, conserved"
+Tb927.6.1280,cytoplasm(patchy),6.438862016,14.83135724,0.491896034,0.251884741,"translation initiation factor EIF-2b alpha subunit, putative"
+Tb927.6.1430,cytoplasm(points),4.737842583,8.447127494,-0.587786539,-1.44287488,"hypothetical protein, conserved"
+Tb927.6.1830,nucleoplasm,7.394955688,12.34007416,1.098754283,-0.409452045,"Cleavage stimulation factor subunit 50, putative"
+Tb927.6.1970,nucleoplasm,6.386801095,,0.458851573,,"nuclear cap binding protein, putative"
+Tb927.6.1990,cytoplasm(patchy),5.67609499,13.07023272,0.007747382,-0.215623923,"hypothetical protein, conserved"
+Tb927.6.2020,cytoplasm(points),6.587004801,,0.585926225,,Bardet-Biedl syndrome 2 protein
+Tb927.6.2050,nucleolus,3.914670383,,-1.110275972,,"ribosome biogenesis regulatory protein (RRS1), putative"
+Tb927.6.2860,cytoplasm,7.289483817,14.05506871,1.031808463,0.045810945,"WD domain, G-beta repeat, putative"
+Tb927.6.3540,cytoplasm(patchy),2.826244428,9.308164948,-1.801129065,-1.214303609,"zinc-finger protein, conserved"
+Tb927.6.3680,mitochondrion,,17.22414359,,0.887074551,Present in the outer mitochondrial membrane proteome 31
+Tb927.6.3890,nucleoplasm,5.462280028,11.39590893,-0.127966699,-0.660090439,"replication factor C, subunit 2, putative"
+Tb927.6.4350,nucleolus,,6.606542003,,-1.931477279,"ribosomal RNA assembly protein, putative"
+Tb927.6.4800,cytoplasm(patchy),4.516828118,14.68204015,-0.728070337,0.212246979,"hypothetical protein, conserved"
+Tb927.6.4950,nucleoplasm,4.568791636,,-0.695087701,,Protein mago nashi homolog
+Tb927.6.4970,cytoplasm(patchy),5.038608331,12.76281838,-0.396882467,-0.297230231,"serine/arginine-rich protein specific kinase SRPK, putative"
+Tb927.6.670,nucleoplasm,5.66069269,12.71005891,-0.00202887,-0.311235777,exosome complex component RRP45
+Tb927.6.710,cytoplasm(reticulated),6.873341525,16.17699661,0.767671809,0.609098588,"dephospho-CoA kinase, putative"
+Tb927.6.740,cytoplasm(points),5.542793101,14.7718693,-0.076862896,0.236093052,"ATP-dependent DEAH-box RNA helicase, putative"
+Tb927.7.1670,cytoplasm(patchy),5.325749064,9.617078227,-0.214626557,-1.132299394,Eukaryotic translation initiation factor 4E type 6
+Tb927.7.1710,cytoplasm,3.590607676,11.39486995,-1.315967248,-0.660366249,"eukaryotic peptide chain release factor subunit 1, putative"
+Tb927.7.1790,cytoplasm(patchy),7.275696629,19.93236737,1.023057366,1.606000481,"Adenine phosphoribosyltransferase, putative"
+Tb927.7.210,mitochondrion,7.552565966,14.60998718,1.198793746,0.193119776,"Proline dehydrogenase, mitochondrial"
+Tb927.7.2390,mitochondrion,5.282469176,12.49052542,-0.24209746,-0.369513204,Tripartite attachment complex protein 102
+Tb927.7.2650,cytoplasm,6.05118403,,0.245826437,,"hypothetical protein, conserved"
+Tb927.7.290,cytoplasm,,7.436771455,,-1.711084309,"leucine-rich repeat protein 1 (LRRP1), putative"
+Tb927.7.2980,cytoplasm,6.141358884,,0.303062831,,"Nitroreductase family, putative"
+Tb927.7.3120,nucleoplasm,5.890848824,13.79668467,0.14405739,-0.022779762,small nuclear ribonucleoprotein SmD1
+Tb927.7.3180,cytoplasm(points),5.765821669,16.08199557,0.064699307,0.583879582,"adaptor complex AP-1 medium subunit, putative"
+Tb927.7.3280,cytoplasm(points),4.981330898,10.09233939,-0.433237987,-1.006136417,"translation initiation factor IF-2, putative"
+Tb927.7.3380,nucleolus,2.444328167,,-2.04354154,,"Ribosomal L28e protein family/Mak16 protein C-terminal region, putative"
+Tb927.7.3530,nucleoplasm,6.127340581,,0.294165039,,"Vacuolar protein 14 C-terminal Fig4p binding, putative"
+Tb927.7.3590,mitochondrion,4.032134584,,-1.035718299,,conserved protein
+Tb927.7.3620,cytoplasm(reticulated),5.425014337,15.22159646,-0.15162023,0.355477765,tyrosyl-tRNA synthetase
+Tb927.7.3790,cytoplasm,,8.617174139,,-1.397734245,"ras-like small GTPase, putative"
+Tb927.7.3970,nucleoplasm,2.638717804,,-1.920157233,,"hypothetical protein, conserved"
+Tb927.7.4260,endocytic,1.645468943,,-2.550598875,,Enriched in surface-labeled proteome protein 13
+Tb927.7.4460,axoneme,5.963154672,12.45157497,0.189951847,-0.379853004,"von Willebrand factor type A domain containing protein, putative"
+Tb927.7.4710,mitochondrion,8.119883811,12.66337556,1.55888557,-0.323628354,Mitochondrial ribosomal protein L46
+Tb927.7.4910,axoneme,6.56428889,16.10454598,0.571507828,0.589865819,"hypothetical protein, conserved"
+Tb927.7.4940,mitochondrion,,11.07701874,,-0.744743129,"serine peptidase, clan SC, family S9A-like protein"
+Tb927.7.5280,mitochondrion,,14.41869818,,0.142340137,kinetoplast ribosomal PPR-repeat containing protein 19
+Tb927.7.540,cytoplasm(reticulated),6.607254431,15.15553487,0.598779207,0.337941036,"chaperone protein DnaJ, putative"
+Tb927.7.5540,mitochondrion,,14.46065815,,0.153478845,"2,4-dienoyl-coa reductase-like protein"
+Tb927.7.6290,axoneme,6.380220205,14.21841022,0.454674506,0.089171634,"kinesin, putative"
+Tb927.7.6360,nucleoplasm,6.153870535,17.12530077,0.311004311,0.860835705,histone H2A variant Z
+Tb927.7.640,mitochondrion,6.035606527,13.91555325,0.235938979,0.008775128,"hypothetical protein, conserved"
+Tb927.7.6660,mitochondrion,,13.61513957,,-0.070972783,"chaperone protein DnaJ, putative"
+Tb927.7.6680,cytoplasm,5.031419416,10.8327135,-0.401445464,-0.809596475,"STE/STE11 serine/threonine-protein kinase, putative"
+Tb927.7.6890,cytoplasm(reticulated),5.076297153,13.29762036,-0.372960363,-0.15526153,"methyltransferase domain containing protein, putative"
+Tb927.7.6980,nucleoplasm,6.569386476,15.13180981,0.574743403,0.331642973,"Mono-functional DNA-alkylating methyl methanesulfonate N-term/CPSF A subunit region, putative"
+Tb927.7.6990,mitochondrion,,9.725434586,,-1.103535081,"hypothetical protein, conserved"
+Tb927.7.7240,axoneme,6.452718292,14.98740005,0.500690983,0.293307914,"leucine-rich repeat protein (LRRP), putative"
+Tb927.7.7450,nucleolus,2.804668845,6.620276529,-1.814823664,-1.927831307,"GTP-binding protein, putative"
+Tb927.7.920,axoneme,7.102709192,14.50206536,0.913257608,0.164470816,Inner arm dynein 5-1
+Tb927.8.1010,mitochondrion,,9.123875634,,-1.263225108,"chaperone protein DnaJ, putative"
+Tb927.8.1110,cytoplasm(patchy),5.552548584,12.44452785,-0.070670829,-0.381723735,"40S ribosomal protein S9, putative"
+Tb927.8.1160,cytoplasm(points),6.356422729,14.4110379,0.439569611,0.140306638,"vacuolar-type Ca2+-ATPase, putative"
+Tb927.8.1290,cytoplasm(reticulated),4.558232695,,-0.701789744,,SUMO-interacting motif-containing protein
+Tb927.8.1360,cytoplasm(points),7.158864146,,0.948900661,,"Dynein heavy chain, N-terminal region 2, putative"
+Tb927.8.1570,nucleoplasm,5.436049645,13.43804774,-0.144615825,-0.117983633,"Uncharacterised protein family (UPF0172), putative"
+Tb927.8.1600,cytoplasm(patchy),5.37465812,15.58411647,-0.183582669,0.45171244,"lysyl-tRNA synthetase, putative"
+Tb927.8.1840,endocytic,5.978603685,17.72952184,0.199757749,1.021232418,"Sec7 domain containing protein, putative"
+Tb927.8.1890,cytoplasm(reticulated),,16.14202865,,0.599815982,"cytochrome c1, heme protein, mitochondrial, putative"
+Tb927.8.1980,nucleolus,5.531274822,9.294203226,-0.084173856,-1.218009892,Beta propeller protein 1
+Tb927.8.2000,nucleolus,4.839284033,9.993625867,-0.523398935,-1.03234094,"cyclophilin, putative"
+Tb927.8.2370,cytoplasm(points),,18.40672746,,1.201003635,dicer-like protein
+Tb927.8.2490,mitochondrion,,13.91055878,,0.007449295,"SET domain containing protein, putative"
+Tb927.8.2600,nucleolus,3.202080541,8.551584137,-1.562575822,-1.415145787,"WD domain, G-beta repeat/BING4CT (NUC141) domain containing protein, putative"
+Tb927.8.3150,cytoplasm(patchy),4.543350257,15.8844195,-0.711236026,0.531430975,"T-complex protein 1, gamma subunit, putative"
+Tb927.8.3250,axoneme,6.49246504,15.04763436,0.525919308,0.309297733,"dynein heavy chain, putative"
+Tb927.8.3460,cytoplasm(points),1.568371632,,-2.599534603,,"Ring finger domain containing protein, putative"
+Tb927.8.3710,nucleoplasm,5.660608894,14.1713825,-0.002082058,0.07668764,"exonuclease, putative"
+Tb927.8.3780,axoneme,4.925500014,,-0.468675344,,"MORN repeat, putative"
+Tb927.8.3790,axoneme,5.939302083,,0.17481197,,"paraflagellar rod component, putative"
+Tb927.8.3870,nucleolus,5.676989724,8.598579381,0.008315293,-1.402670415,Nucleolar protein 127
+Tb927.8.3970,endocytic,6.666695989,15.33197244,0.636508356,0.384778207,"oxidoreductase, putative"
+Tb927.8.4380,mitochondrion,6.054335816,14.55034021,0.24782696,0.177285872,Archaic translocase of outer membrane 12 kDa subunit
+Tb927.8.4390,cytoplasm,5.412604987,,-0.159496777,,"translation initiation factor eIF-2B subunit beta, putative"
+Tb927.8.4450,nucleolus,4.210451833,7.881666836,-0.922535567,-1.592982243,"RNA-binding protein, putative"
+Tb927.8.4500,cytoplasm(patchy),4.551560225,13.72038895,-0.706024939,-0.043033248,Eukaryotic translation initiation factor 4 gamma 5
+Tb927.8.4640,axoneme,6.67053771,16.77362753,0.638946798,0.767480417,Component of motile flagella 19
+Tb927.8.4820,cytoplasm(patchy),4.302097285,9.941991725,-0.864365745,-1.046047755,eukaryotic translation initiation factor 4 gamma 3
+Tb927.8.5290,endocytic,5.785899758,16.88598308,0.077443408,0.797306357,"WW domain containing protein, putative"
+Tb927.8.5490,cytoplasm(reticulated),4.022191372,5.889150484,-1.042029522,-2.121916255,"Nucleolar protein,Nop52, putative"
+Tb927.8.5580,mitochondrion,6.273462319,17.15611409,0.386912418,0.869015419,"N-terminal region of Chorein, a TM vesicle-mediated sorter/Integral peroxisomal membrane peroxin, putative"
+Tb927.8.5620,cytoplasm(points),6.360586632,,0.442212551,,"ubiquitin carboxyl-terminal hydrolase, putative"
+Tb927.8.5660,mitochondrion,5.947648267,,0.180109516,,"hypothetical protein, conserved"
+Tb927.8.5740,cytoplasm(points),4.887036114,13.30880561,-0.493089411,-0.152292291,"proteasome 26S non-ATPase subunit 9, putative"
+Tb927.8.5880,cytoplasm(patchy),3.811321603,6.926133595,-1.175874209,-1.846638395,"eukaryotic translation initiation factor 1A, putative"
+Tb927.8.6160,cytoplasm,5.458182931,13.12342396,-0.130567236,-0.201503762,"40S ribosomal protein S8, putative"
+Tb927.8.6240,axoneme,7.207861343,16.9308195,0.980000493,0.809208646,STOP axonemal protein
+Tb927.8.6420,mitochondrion,,19.10102268,,1.38531146,beta-ketoacyl-ACP reductase 2
+Tb927.8.650,cytoplasm(points),5.999472306,12.69812252,0.213003622,-0.314404415,"cation-transporting ATPase, putative"
+Tb927.8.7390,cytoplasm,5.050393229,,-0.389402277,,protein phosphatase 1
+Tb927.8.7480,cytoplasm(points),5.317853271,8.779501532,-0.219638228,-1.354642764,"hypothetical protein, conserved"
+Tb927.8.7820,mitochondrion,8.687887834,,1.919412929,,"'Cold-shock' DNA-binding domain containing protein, putative"
+Tb927.8.8310,mitochondrion,3.701564398,11.10627747,-1.245540046,-0.736976097,"chaperone protein DnaJ, putative"
+Tb927.8.910,nucleolus,1.42420151,3.591084678,-2.691043239,-2.731961521,"hypothetical protein, conserved"
+Tb927.8.990,nucleoplasm,6.231822358,14.1447261,0.36048242,0.069611423,RNA-binding protein 33 (RNA-binding motif protein 33)
+Tb927.9.10080,cytoplasm(reticulated),,13.0633717,,-0.217445253,"phosphatidylserine decarboxylase, putative"
+Tb927.9.10250,nucleoplasm,5.737150657,11.30199188,0.046501048,-0.685021689,small nuclear ribonucleoprotein Sm-F
+Tb927.9.10440,cytoplasm(patchy),4.423497805,14.91545223,-0.787309585,0.274208621,"DNA polymerase epsilon catalytic subunit, putative"
+Tb927.9.10570,endocytic,5.630720544,,-0.021052994,,predicted zinc finger protein
+Tb927.9.10710,cytoplasm,5.264706734,11.71710933,-0.253371758,-0.574824481,hsp70 subfamily B suppressor 1
+Tb927.9.10850,nucleoplasm,6.153594173,,0.310828897,,"Splicing factor 3B subunit 10 (SF3b10), putative"
+Tb927.9.11050,cytoplasm(points),4.166791667,9.730666287,-0.950247844,-1.102146272,"4E-interacting protein, putative"
+Tb927.9.11140,cytoplasm,6.392009778,19.8006015,0.462157663,1.571021871,"hypothetical protein, conserved"
+Tb927.9.11220,mitochondrion,6.178488045,15.77002245,0.326629704,0.501063099,"tRNA import complex component, putative"
+Tb927.9.11270,cytoplasm(patchy),5.106751167,13.42180026,-0.353630385,-0.122296696,"t- complex protein 1 (eta subunit), putative"
+Tb927.9.12240,cytoplasm(patchy),4.911574835,17.07387694,-0.477514028,0.84718472,"60S ribosomal subunit protein L31, putative"
+Tb927.9.12300,nucleoplasm,6.442404793,12.30533753,0.494144729,-0.41867324,"replication factor C, subunit 3, putative"
+Tb927.9.12360,cytoplasm,5.235186317,14.37744598,-0.272109157,0.131389316,"RNA-binding protein, putative"
+Tb927.9.12390,cytoplasm(points),3.784001367,,-1.193215095,,"hypothetical protein, conserved"
+Tb927.9.12500,mitochondrion,,10.75057852,,-0.831400051,Present in the outer mitochondrial membrane proteome 7
+Tb927.9.12900,nucleoplasm,6.971344623,16.11850601,0.829876999,0.593571654,"RNA polymerase-associated protein LEO1, putative"
+Tb927.9.13120,mitochondrion,,10.84589575,,-0.80609711,Present in the outer mitochondrial membrane proteome 8
+Tb927.9.13610,cytoplasm(points),4.911884659,11.26644681,-0.477317374,-0.694457495,"helicase, putative"
+Tb927.9.14070,cytoplasm(reticulated),7.398911159,15.81641503,1.101264926,0.513378489,"short-chain dehydrogenase, putative"
+Tb927.9.14120,cytoplasm(points),4.549804802,,-0.707139153,,"NLI interacting factor-like phosphatase, putative"
+Tb927.9.14200,mitochondrion,,15.8528683,,0.523055385,"methyltransferase domain containing protein, putative"
+Tb927.9.14420,mitochondrion,,12.0313963,,-0.491393764,"Peptidyl-prolyl cis-trans isomerase C, mitochondrial, putative"
+Tb927.9.15060,nucleolus,4.082631273,8.082009345,-1.003666698,-1.539799258,"rRNA processing protein, putative"
+Tb927.9.15360,cytoplasm(patchy),5.91636558,14.02438009,0.160253557,0.037664335,"40S ribosomal protein S6, putative"
+Tb927.9.1700,endocytic,6.454958777,,0.502113079,,"btb/poz domain containing protein, putative"
+Tb927.9.2060,endocytic,3.972624916,11.24302266,-1.073490678,-0.700675677,"ADP-ribosylation factor family, putative"
+Tb927.9.2450,mitochondrion,,15.06138172,,0.31294711,"electon transport protein SCO1/SCO2, putative"
+Tb927.9.2650,cytoplasm(points),5.794378698,12.23657632,0.082825218,-0.436926613,Present in the outer mitochondrial membrane proteome 2
+Tb927.9.3440,axoneme,7.01453546,15.88445001,0.85729138,0.531439077,"cyclophilin type peptidyl-prolyl cis-trans isomerase, putative"
+Tb927.9.3630,endocytic,5.127395138,13.46554688,-0.340527104,-0.110683704,"BSD domain containing protein, putative"
+Tb927.9.4080,cytoplasm(points),5.461650865,13.4269411,-0.128366045,-0.120932006,"Stumpy formation signalling pathway protein, putative"
+Tb927.9.4190,cytoplasm(patchy),5.87515899,18.6239245,0.134098632,1.258660828,fatty acyl CoA syntetase 1
+Tb927.9.4300,nucleoplasm,6.967821652,,0.827640875,,"PRP3, putative"
+Tb927.9.4390,nucleoplasm,5.296008094,,-0.233503946,,DNA-damage inducible protein DDI1-like protein
+Tb927.9.4820,cytoplasm(points),9.923951774,,2.703975803,,"calcium/potassium channel (CAKC), putative"
+Tb927.9.4900,nucleoplasm,5.554617207,,-0.069357819,,"condensin subunit 1, putative"
+Tb927.9.5240,nucleoplasm,4.467302254,,-0.759505729,,"mismatch repair protein MSH3, putative"
+Tb927.9.5380,cytoplasm(points),4.645569177,,-0.64635494,,"Rab-GTPase-TBC domain containing protein, putative"
+Tb927.9.5410,axoneme,7.094485581,13.61766152,0.908037862,-0.070303303,"hypothetical protein, conserved"
+Tb927.9.5490,cytoplasm(points),7.199317463,14.93954871,0.974577464,0.28060528,"cation transporter, putative"
+Tb927.9.5630,mitochondrion,,13.11376534,,-0.204067743,KREPB7
+Tb927.9.5690,cytoplasm(patchy),5.482156602,9.38393213,-0.115350505,-1.194190429,"60S acidic ribosomal protein, putative"
+Tb927.9.5710,nucleoplasm,4.471588676,8.826941571,-0.756785022,-1.342049317,general transcription factor IIB
+Tb927.9.5880,nucleoplasm,5.179280093,13.81201174,-0.307594334,-0.018711035,"pre-mRNA splicing factor, putative"
+Tb927.9.6070,cytoplasm(patchy),5.992883645,13.19734099,0.208821622,-0.181881722,"40S ribosomal protein S3, putative"
+Tb927.9.6090,glycosome,7.016353899,18.23596976,0.858445592,1.155674242,"PTP1-interacting protein, 39 kDa"
+Tb927.9.6320,nucleoplasm,6.488765512,,0.523571119,,"hypothetical protein, conserved"
+Tb927.9.6450,glycosome,6.128386124,13.00947207,0.294828673,-0.231753465,"peroxisomal membrane protein (Pex16), putative"
+Tb927.9.6650,cytoplasm,5.864454814,15.65507939,0.127304404,0.470550279,"tRNA synthetases class II (A)/Threonyl and Alanyl tRNA synthetase second additional domain containing protein, putative"
+Tb927.9.7250,cytoplasm(reticulated),3.588917769,,-1.317039877,,"hypothetical protein, conserved"
+Tb927.9.7670,nucleolus,3.076769564,6.44519269,-1.642114053,-1.974309118,"hypothetical protein, conserved"
+Tb927.9.7690,cytoplasm,,13.57904259,,-0.080555098,SUMO-interacting motif-containing protein
+Tb927.9.8190,axoneme,6.73156952,17.65238184,0.677685322,1.00075481,"hypothetical protein, conserved"
+Tb927.9.8200,nucleolus,4.013886156,6.359593331,-1.047301065,-1.99703235,"Pescadillo N-terminus/BRCA1 C Terminus (BRCT) domain containing protein, putative"
+Tb927.9.8950,mitochondrion,6.042651863,14.45009177,0.240410842,0.150673888,"metallo- peptidase, Clan M- Family M48"
+Tb927.9.9410,endocytic,5.461650905,,-0.12836602,,inositol phosphorylceramide synthase
+Tb927.9.9860,cytoplasm(points),6.013950137,14.24973052,0.222193088,0.09748593,"170 kDa glucose-regulated protein, putative"
+Tb927.9.9940,axoneme,5.994613458,14.65492228,0.209919581,0.205048261,parkin coregulated gene protein
+Tb927.9.1720,glycosome,7.872541966,,1.40189108,,"peroxisomal membrane protein 4, putative"
+Tb927.9.2670,glycosome,6.498376467,,0.529671449,,Engulfment and cell motility domain-containing protein
+Tb927.9.3280,glycosome,5.98752588,13.93358642,0.205420905,0.013562218,exopolyphosphatase
+Tb927.9.4190,glycosome,5.87515899,18.6239245,0.134098632,1.258660828,fatty acyl CoA syntetase 1
+Tb927.9.6090,glycosome,7.016353899,18.23596976,0.858445592,1.155674242,"PTP1-interacting protein, 39 kDa"
+Tb927.9.6530,glycosome,6.496797604,12.27933597,0.528669302,-0.425575621,hypothetical protein
+Tb927.9.8720,glycosome,8.217282373,18.6104046,1.620707045,1.255071831,"fructose-1,6-bisphosphatase"
+Tb927.9.8950,glycosome,6.042651863,14.45009177,0.240410842,0.150673888,"metallo- peptidase, Clan M- Family M48"
+Tb927.9.9000,glycosome,7.128898468,,0.929880643,,isopentenyl-diphosphate delta-isomerase (type II)
+Tb927.9.9640,glycosome,6.689664508,,0.651087089,,"hypothetical protein, conserved"
+Tb927.9.10310,glycosome,6.717369868,18.01136052,0.668672423,1.096049402,mitochondrial carrier protein 11
+Tb927.9.11030,glycosome,,13.17901155,,-0.186747462,cAMP-dependent protein kinase catalytic subunit 2
+Tb927.9.11580,glycosome,8.603336748,,1.865746092,,glycosomal membrane protein
+Tb927.9.11600,glycosome,9.736713485,28.20407346,2.585130649,3.801810162,glycosomal membrane protein
+Tb927.9.11640,glycosome,6.551049807,,0.563104628,,"hypothetical protein, conserved"
+Tb927.9.12700,glycosome,6.097738374,11.69481122,0.275375726,-0.580743744,"phospholipase A1, putative"
+Tb927.9.12980,glycosome,2.12007198,5.281246454,-2.249355622,-2.283290649,"Alpha/beta hydrolase family, putative"
+Tb927.9.14070,glycosome,7.398911159,15.81641503,1.101264926,0.513378489,"short-chain dehydrogenase, putative"
+Tb927.9.15260,glycosome,5.616354071,9.134125111,-0.030171779,-1.260504278,"ubx domain containing protein, putative"
+Tb927.11.9420,glycosome,7.383604366,,1.091549295,,"ATP synthase, putative"
+Tb927.11.9640,glycosome,5.688898613,16.61284353,0.015874184,0.724798647,"glycyl-tRNA synthetase, putative"
+Tb927.11.9810,glycosome,6.152348449,15.17001483,0.310038202,0.34178489,"NUDIX hydrolase 3, putative"
+Tb927.11.10020,glycosome,6.593264846,14.92854415,0.589899644,0.277684007,"short-chain dehydrogenase, putative"
+Tb927.11.10260,glycosome,6.665972413,11.19567136,0.636049083,-0.713245568,"hypothetical protein, conserved"
+Tb927.11.11330,glycosome,5.441430881,19.47148496,-0.141200211,1.483654492,heat shock protein 70
+Tb927.11.11520,glycosome,5.985552634,17.63689345,0.204168433,0.996643258,glycosomal membrane protein
+Tb927.11.12060,glycosome,6.897146269,,0.782781318,,"Peroxisomal biogenesis factor 11 (PEX11), putative"
+Tb927.11.12280,glycosome,,4.854710178,,-2.396519102,"hypothetical protein, conserved"
+Tb927.11.14770,glycosome,,15.0761821,,0.316876024,"hypothetical protein, conserved"
+Tb927.11.14780,glycosome,6.294620347,17.91510138,0.400341985,1.070496422,phosphomannose isomerase
+Tb927.11.15020,glycosome,6.735843004,14.55528094,0.680397817,0.17859744,iron superoxide dismutase
+Tb927.11.2520,glycosome,6.619841083,10.50617021,0.606768292,-0.896280759,UDP-n-acetylglucosamine pyrophosphorylase
+Tb927.11.2580,glycosome,,19.08660611,,1.381484432,Present in the outer mitochondrial membrane proteome 11
+Tb927.11.2620,glycosome,5.324164366,,-0.215632407,,"hypothetical protein, conserved"
+Tb927.11.2730,glycosome,6.587045279,17.62901306,0.585951917,0.994551328,UDP-galactose 4-epimerase
+Tb927.11.3130,glycosome,4.940022572,15.83310815,-0.459457488,0.51780985,glycosomal transporter (GAT2)
+Tb927.11.3850,glycosome,6.655538978,16.73803335,0.629426702,0.758031575,"AMP deaminase, putative"
+Tb927.11.5110,glycosome,4.11204163,,-0.984999158,,"hypothetical protein, conserved"
+Tb927.11.5180,glycosome,6.883212249,16.82196447,0.773937022,0.780311956,"hypothetical protein, conserved"
+Tb927.11.5520,glycosome,6.112049102,17.45780458,0.284459128,0.94910227,triosephosphate isomerase
+Tb927.11.6280,glycosome,10.81053912,18.69377723,3.266716529,1.277203956,pyruvate phosphate dikinase
+Tb927.11.6330,glycosome,7.262528873,,1.014699438,,6-phosphogluconolactonase
+Tb927.11.1070,glycosome,4.311082571,12.59684765,-0.858662544,-0.341288872,"glycosomal transporter (GAT3), putative"
+Tb927.11.1020,glycosome,5.862845196,18.5743927,0.126282737,1.245512101,"ribokinase, putative"
+Tb927.11.900,glycosome,10.66263198,16.6687673,3.172835904,0.739644189,"isocitrate dehydrogenase, putative"
+Tb927.11.760,glycosome,5.125996456,14.42216052,-0.341414884,0.143259252,"protein phosphatase 2C, putative"
+Tb927.11.2380,glycosome,7.005074602,16.67090423,0.85128632,0.740211458,"phosphoglycerate kinase, putative"
+Tb927.11.1970,glycosome,,12.80847225,,-0.28511094,"hypothetical protein, conserved"
+Tb927.1.3220,glycosome,6.385185605,,0.457826178,,"TBC1 domain family member 20/GTPase, putative"
+Tb927.1.3830,glycosome,8.2236967,14.72486531,1.62477839,0.223615358,"glucose-6-phosphate isomerase, glycosomal"
+Tb927.1.4490,glycosome,6.395738637,9.403554041,0.464524471,-1.18898159,"acetyltransferase, putative"
+Tb927.1.5000,glycosome,6.216694415,15.36178215,0.35088031,0.392691502,"hypothetical protein, conserved"
+Tb927.1.720,glycosome,6.563646596,18.06606533,0.571100147,1.11057136,phosphoglycerate kinase
+Tb927.10.10390,glycosome,6.064694983,17.67574283,0.254402201,1.006956228,trypanothione reductase
+Tb927.10.10610,glycosome,7.584592061,,1.219121566,,"protein tyrosine phosphatase, putative"
+Tb927.10.12360,glycosome,5.512730249,15.22142469,-0.095944593,0.355432167,"hypothetical protein, conserved"
+Tb927.10.13130,glycosome,6.779041448,28.98452633,0.707817026,4.008989422,UTP-glucose-1-phosphate uridylyltransferase
+Tb927.10.1390,glycosome,5.540349064,14.66254026,-0.078414191,0.207070533,Hypoxanthine-guanine-xanthine phosphoribosyltransferase
+Tb927.10.1400,glycosome,6.507932947,,0.535737203,,hypoxanthine-guanine phosphoribosyltransferase
+Tb927.10.14510,glycosome,6.257177583,15.85213682,0.37657606,0.522861206,"root hair defective 3 GTP-binding protein (RHD3), putative"
+Tb927.10.14720,glycosome,,7.806665442,,-1.612892136,peroxin 13
+Tb927.10.15410,glycosome,11.72259491,23.0184068,3.845622755,2.425221472,glycosomal malate dehydrogenase
+Tb927.10.15850,glycosome,7.051478085,16.7343483,0.880739853,0.757053341,Peroxisome biogenesis factor 12
+Tb927.10.16120,glycosome,6.586779126,14.70874972,0.585782983,0.21933731,inosine-5'-monophosphate dehydrogenase
+Tb927.10.1860,glycosome,4.562007309,,-0.699393895,,"hypothetical protein, conserved"
+Tb927.10.2010,glycosome,7.997555745,27.63535374,1.481240672,3.650837646,hexokinase
+Tb927.10.2020,glycosome,10.31234364,25.10830183,2.950498516,2.980005659,hexokinase
+Tb927.10.240,glycosome,6.313699479,15.34705897,0.41245202,0.388783083,"peroxin 14, putative"
+Tb927.10.2490,glycosome,6.025231956,15.33188783,0.229353961,0.384755748,glucose-6-phosphate 1-dehydrogenase
+Tb927.10.3080,glycosome,6.659438291,,0.631901701,,"methionine biosynthetic protein, putative"
+Tb927.10.4610,glycosome,6.871258867,15.55379528,0.766349891,0.443663368,"dolicholphosphate-mannose synthase, putative"
+Tb927.10.5620,glycosome,7.853414673,19.76035994,1.389750474,1.560339335,"fructose-bisphosphate aldolase, glycosomal"
+Tb927.10.5760,glycosome,6.003311534,20.49990984,0.215440482,1.756660482,"adenylate kinase, putative"
+Tb927.10.6150,glycosome,4.596186725,,-0.677699304,,"neurobeachin/beige protein, putative"
+Tb927.10.6810,glycosome,6.951864479,15.23052828,0.817512431,0.35784881,"guanylate kinase, putative"
+Tb927.10.8630,glycosome,7.033324553,17.57805288,0.86921732,0.981023422,"Sucrase/ferredoxin-like, putative"
+Tb927.10.9890,glycosome,7.395263566,,1.098949701,,"hypothetical protein, conserved"
+Tb927.2.4130,glycosome,6.921064662,14.79196282,0.797962962,0.241427086,"enoyl-CoA hydratase/Enoyl-CoA isomerase/3-hydroxyacyl-CoA dehydrogenase, putative"
+Tb927.2.4210,glycosome,6.827289881,20.23531223,0.738441598,1.686420319,"Phosphoenolpyruvate carboxykinase [ATP], glycosomal"
+Tb927.2.5200,glycosome,4.394489155,,-0.805722152,,"hypothetical protein, conserved"
+Tb927.2.5800,glycosome,5.659597875,19.45075738,-0.002723779,1.478152143,"sedoheptulose-1,7-bisphosphatase"
+Tb927.3.1840,glycosome,6.584517725,18.47263687,0.584347611,1.218499967,"3-oxo-5-alpha-steroid 4-dehydrogenase, putative"
+Tb927.3.2340,glycosome,7.908276187,,1.424572546,,Peroxisome biogenesis protein 2
+Tb927.3.2410,glycosome,6.155397252,,0.311973359,,Peroxisome biogenesis factor 10
+Tb927.3.3270,glycosome,7.65165308,17.13458355,1.26168699,0.863299916,"ATP-dependent 6-phosphofructokinase, glycosomal"
+Tb927.3.3610,glycosome,5.942949111,16.40086831,0.177126837,0.668527639,"peroxisomal targeting signal 2 receptor, putative"
+Tb927.3.4420,glycosome,7.29216096,16.80671191,1.033507717,0.776263007,"hypothetical protein, conserved"
+Tb927.3.5090,glycosome,5.823237902,15.65766056,0.101142927,0.471235478,"tryparedoxin 2, putative"
+Tb927.4.1360,glycosome,7.66526283,18.11873414,1.270325463,1.124552838,"Glucose-6-phosphate 1-epimerase, putative"
+Tb927.4.1540,glycosome,5.676233719,14.32638721,0.007835437,0.117835238,"NAD dependent epimerase/dehydratase family, putative"
+Tb927.4.1600,glycosome,6.945103753,,0.813221217,,"AAA domain containing protein, putative"
+Tb927.4.2010,glycosome,5.272036034,15.21188345,-0.248719655,0.352899346,"acyl-CoA binding protein, putative"
+Tb927.4.2540,glycosome,4.389628987,,-0.808807031,,"Neural precursor cell-expressed, developmently downregulated 8"
+Tb927.4.3160,glycosome,,14.94944892,,0.283233396,"dihydroxyacetone phosphate acyltransferase, putative"
+Tb927.4.4050,glycosome,,13.94258112,,0.015949954,glycosomal transporter (GAT1)
+Tb927.4.4070,glycosome,6.965135834,16.24485003,0.825936115,0.627110977,"mevalonate kinase, putative"
+Tb927.4.4360,glycosome,7.3416963,,1.064949124,,"monoglyceride lipase, putative"
+Tb927.5.1210,glycosome,6.208882582,18.75445645,0.34592193,1.29331188,"short-chain dehydrogenase, putative"
+Tb927.5.1630,glycosome,5.818931027,14.07152416,0.098409238,0.050179215,"hypothetical protein, conserved"
+Tb927.5.2080,glycosome,6.786099387,16.8738472,0.712296889,0.794084764,GMP reductase
+Tb927.5.2370,glycosome,6.228278638,,0.358233126,,"hydrolase, alpha/beta fold family, putative"
+Tb927.5.2590,glycosome,6.644210812,15.88001703,0.622236411,0.530262296,"Macro domain containing protein, putative"
+Tb927.5.2650,glycosome,,13.35064482,,-0.14118564,L-galactonolactone oxidase
+Tb927.5.300,glycosome,7.047881454,27.17074351,0.878456975,3.527502069,"thymine-7-hydroxylase, putative"
+Tb927.5.3920,glycosome,7.443322174,15.47436963,1.129453787,0.422579009,Peroxisome biogenesis factor 6
+Tb927.5.4350,glycosome,5.616436516,17.01121296,-0.030119449,0.83054992,"Nudix hydrolase 2, putative"
+Tb927.5.930,glycosome,6.470710022,19.33770134,0.512110816,1.44814025,NADH-dependent fumarate reductase
+Tb927.5.960,glycosome,5.735058115,14.73387795,0.045172856,0.226007857,atpase family aaa domain-containing protein 1
+Tb927.6.1080,glycosome,6.567826444,20.45725808,0.573753209,1.745338133,"hydroxyacylglutathione hydrolase, putative"
+Tb927.6.1500,glycosome,6.246276097,14.18750458,0.369656595,0.080967412,alkyl-dihydroxyacetone phosphate synthase
+Tb927.6.1800,glycosome,5.578343321,16.83430332,-0.054298219,0.783587432,"protein phosphatase 2C, putative"
+Tb927.6.2200,glycosome,7.018246162,,0.859646662,,"DJ-1 family protein, putative"
+Tb927.6.3050,glycosome,6.115943701,12.22617881,0.286931134,-0.439686739,"Aldehyde dehydrogenase 3, putative"
+Tb927.6.710,glycosome,6.873341525,16.17699661,0.767671809,0.609098588,"dephospho-CoA kinase, putative"
+Tb927.7.1130,glycosome,3.937247734,12.58710221,-1.095945523,-0.343875901,trypanothione/tryparedoxin dependent peroxidase 2
+Tb927.7.1790,glycosome,7.275696629,19.93236737,1.023057366,1.606000481,"Adenine phosphoribosyltransferase, putative"
+Tb927.7.330,glycosome,,12.84367306,,-0.275766523,"Thioesterase-like superfamily, putative"
+Tb927.7.3770,glycosome,6.756668376,14.04003605,0.693616238,0.041820371,Bifunctional NAD(P)H-hydrate repair enzyme
+Tb927.7.3940,glycosome,7.13295826,18.4037229,0.932457501,1.200206042,mitochondrial carrier protein
+Tb927.7.4770,glycosome,5.838943837,14.79942038,0.111111905,0.243406772,"cyclophilin-type peptidyl-prolyl cis-trans isomerase, putative"
+Tb927.7.540,glycosome,6.607254431,15.15553487,0.598779207,0.337941036,"chaperone protein DnaJ, putative"
+Tb927.7.5680,glycosome,9.690456601,17.45152692,2.555770166,0.947435801,"deoxyribose-phosphate aldolase, putative"
+Tb927.7.6770,glycosome,5.167812625,16.30446784,-0.314873043,0.64293714,"Acyl CoA binding protein, putative"
+Tb927.7.7500,glycosome,5.131594134,,-0.337861889,,"thymine-7-hydroxylase, putative"
+Tb927.8.1910,glycosome,5.938444499,,0.174267638,,"metallo-peptidase, Clan MH, Family M18"
+Tb927.8.2310,glycosome,6.263573198,11.74170206,0.380635528,-0.568296088,"(H+)-ATPase G subunit, putative"
+Tb927.8.3270,glycosome,6.800255337,17.17735738,0.721282049,0.874654671,hypothetical protein
+Tb927.8.3280,glycosome,6.699019734,,0.657025102,,"Beta-lactamase superfamily domain containing protein, putative"
+Tb927.8.3530,glycosome,9.347087956,20.50939438,2.337824895,1.759178251,"glycerol-3-phosphate dehydrogenase [NAD+], glycosomal"
+Tb927.8.4370,glycosome,6.47113798,,0.512382452,,"hypothetical protein, conserved"
+Tb927.8.590,glycosome,6.251409992,20.84535506,0.372915215,1.848362478,"carnitine O-palmitoyltransferase, putative"
+Tb927.8.6080,glycosome,5.79556826,14.70724951,0.083580265,0.218939063,"Glycerophosphoryl diester phosphodiesterase family, putative"
+Tb927.8.6390,glycosome,5.867810321,22.53570569,0.129434235,2.297083484,"lysophospholipase, putative"
+Tb927.8.6640,glycosome,5.800634776,7.964405175,0.086796118,-1.571018497,"Male sterility protein, putative"
+Tb927.8.7170,glycosome,6.225526474,19.70383814,0.356486254,1.545335041,"inositol polyphosphate 1-phosphatase, putative"
+Tb927.8.920,glycosome,4.790060709,,-0.554642297,,"ubiquitin-conjugating enzyme E2, putative"

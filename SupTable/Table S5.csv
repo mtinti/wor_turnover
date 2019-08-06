@@ -1,0 +1,328 @@
+index,desc,Life Stage,Z score
+Tb927.10.6060,universal minicircle sequence binding protein 2,BSF,-0.460717155
+Tb927.10.6330,kinetoplastid kinetochore protein 1,BSF,0.511247914
+Tb927.10.5070,"ribonuclease H, putative",BSF,-2.172624088
+Tb11.v5.0394,"hypothetical protein, conserved",BSF,-0.589281634
+Tb11.v5.0553,"ubiquitin hydrolase, putative",BSF,-0.36512424
+Tb927.1.190,"retrotransposon hot spot protein (RHS, pseudogene), putative",BSF,0.320784872
+Tb927.1.2600,pumilio/PUF RNA binding protein 9,BSF,-2.959781156
+Tb927.1.4010,primase 2,BSF,-1.625654774
+Tb927.10.10000,"hypothetical protein, conserved",BSF,-3.269743335
+Tb927.10.10200,"hypothetical protein, conserved",BSF,-1.285650839
+Tb927.10.10780,"hypothetical protein, conserved",BSF,-0.826881916
+Tb927.10.11020,"DNA mismatch repair protein MSH2, putative",BSF,-0.911669154
+Tb927.10.11270,"RNA-binding protein, putative",BSF,-2.553216919
+Tb927.10.11340,"hypothetical protein, conserved",BSF,-2.856467437
+Tb927.10.11450,"TFIIF-stimulated CTD phosphatase, putative",BSF,-1.079544549
+Tb927.10.11580,predicted WD40 repeat protein,BSF,-1.248306132
+Tb927.10.11840,"WD domain, G-beta repeat, putative",BSF,0.352153309
+Tb927.10.11990,"60S ribosome subunit biogenesis protein NIP7, putative",BSF,-0.9743229
+Tb927.10.12130,"Ubiquitin family, putative",BSF,0.84048459
+Tb927.11.9730,"60S ribosomal protein L34, putative",BSF,0.258904635
+Tb927.10.14330,"Utp14 protein, putative",BSF,-1.779225687
+Tb927.10.14360,U2 small nuclear ribonucleoprotein 40K,BSF,0.275632734
+Tb927.10.14460,"leucine-rich repeat protein (LRRP), putative",BSF,0.354511735
+Tb927.10.15540,predicted VPS53-like domain protein,BSF,0.039838301
+Tb927.10.15940,"cation transporter, putative",BSF,0.55138077
+Tb927.10.2010,hexokinase,BSF,1.481240672
+Tb927.10.2660,"hypothetical protein, conserved",BSF,-1.353898114
+Tb927.10.3280,"60S ribosomal proteins L38, putative",BSF,-0.176820687
+Tb927.10.3380,"60S acidic ribosomal protein P2, putative",BSF,-0.570277114
+Tb927.10.3470,"Ankyrin repeats (3 copies), putative",BSF,0.196300751
+Tb927.10.4050,"serine palmitoyltransferase, putative",BSF,-3.201154741
+Tb927.10.4620,"peptidyl-prolyl cis-trans isomerase, putative",BSF,-1.332602868
+Tb927.10.4930,"protein phosphatase 2C, putative",BSF,0.643444611
+Tb927.10.4990,cdc2-related kinase 3,BSF,-2.011986983
+Tb927.10.6010,"Cohesin subunit SCC3, putative",BSF,-1.527880003
+Tb927.10.6070,universal minicircle sequence binding protein 1,BSF,-0.60294843
+Tb927.10.7090,"Alternative oxidase, mitochondrial",BSF,-0.645095793
+Tb927.10.7430,"GTP-binding protein, putative",BSF,-1.905201545
+Tb927.10.7620,"mitochondrial ATP-dependent zinc metallopeptidase, putative",BSF,-2.08675728
+Tb927.10.7730,"Domain of unknown function (DUF4496), putative",BSF,-0.777256616
+Tb927.10.7740,protein transport protein SEC23,BSF,0.179997896
+Tb927.10.8240,"hypothetical protein, conserved",BSF,-1.80630713
+Tb927.10.8330,"S. cerevisiae PSP1 homologue, putative",BSF,-2.867134244
+Tb927.10.8710,centrin-3,BSF,-0.523489246
+Tb927.10.880,thymidine kinase,BSF,-2.723702771
+Tb927.10.890,"kinesin, putative",BSF,-2.904239433
+Tb927.10.8980,"hypothetical protein, conserved",BSF,-1.35918316
+Tb927.10.9160,"Cyclin 12, L-type",BSF,-0.422810617
+Tb927.10.9800,60S ribosomal protein L22,BSF,-0.339843994
+Tb927.11.10520,kinetoplastid kinetochore protein 2,BSF,-0.700171744
+Tb927.11.10620,"hypothetical protein, conserved",BSF,0.50304887
+Tb927.11.11620,"hypothetical protein, conserved",BSF,1.399478021
+Tb927.11.12290,"hypothetical protein, conserved",BSF,2.00490953
+Tb927.11.12410,kinetoplastid kinetochore protein 10,BSF,-2.620514432
+Tb927.11.1300,"UBA/TS-N domain containing protein, putative",BSF,-2.122019659
+Tb927.11.13270,"hypothetical protein, conserved",BSF,-1.832136918
+Tb927.11.13520,"hypothetical protein, conserved",BSF,-0.635783279
+Tb927.11.13710,"hypothetical protein, conserved",BSF,-0.947489985
+Tb927.11.14410,"Ankyrin repeats (3 copies), putative",BSF,-0.437039788
+Tb927.11.14490,"RNA polymerase subunit, putative",BSF,0.238827072
+Tb927.11.14900,coatomer subunit epsilon,BSF,0.245412062
+Tb927.11.14950,zinc finger protein 2,BSF,-0.57039285
+Tb927.11.15240,"Ras-related protein RAB2B, putative",BSF,-0.362815759
+Tb927.11.15800,Cytokinesis initiation factor 1,BSF,-2.531178674
+Tb927.11.15860,"L-Lysine transport protein, putative",BSF,-0.911673316
+Tb927.11.16380,"TPR repeat, putative",BSF,0.165586042
+Tb927.11.16390,"cyclin dependent kinases regulatory subunit, putative",BSF,-1.760412147
+Tb927.11.16750,"hypothetical protein, conserved",BSF,-1.593068129
+Tb927.11.2260,Eukaryotic translation initiation factor 4E-1,BSF,-0.352878832
+Tb927.11.2290,"hypothetical protein, conserved",BSF,1.082584743
+Tb927.11.2860,"hypothetical protein, conserved",BSF,0.114480626
+Tb927.11.3090,"LisH domain-containing protein FOPNL, putative",BSF,-2.317620614
+Tb927.11.3320,"ras-like small GTPase, putative",BSF,0.290169187
+Tb927.11.3580,"Thiamin pyrophosphokinase, vitamin B1 binding domain containing protein, putative",BSF,0.662113926
+Tb927.11.4180,"PSP1 C-terminal conserved region, putative",BSF,-3.104124127
+Tb927.11.4710,"hypothetical protein, conserved",BSF,-1.562452538
+Tb927.11.5520,triosephosphate isomerase,BSF,0.284459128
+Tb927.11.5590,Anaphase-promoting complex-associated protein AP1,BSF,0.230721019
+Tb927.11.5820,"Inhibitor of apoptosis-promoting Bax1, putative",BSF,0.064955115
+Tb927.11.5860,"AGC/RSK family serine/threonine kinase, putative",BSF,1.083655558
+Tb927.11.6340,"PUB domain containing protein, putative",BSF,-0.773740176
+Tb927.11.6420,"hypothetical protein, conserved",BSF,-1.135943512
+Tb927.11.6890,DNA repair and recombination helicase protein PIF1,BSF,1.113012548
+Tb927.11.7050,"PA domain containing protein, putative",BSF,-0.585020945
+Tb927.11.7560,Component of motile flagella 15,BSF,0.310555172
+Tb927.11.7600,"hypothetical protein, conserved",BSF,-2.554326586
+Tb927.11.7780,Mitochondrial import receptor subunit ATOM46,BSF,-0.074998235
+Tb927.11.7850,"hypothetical protein, conserved",BSF,0.332243557
+Tb927.11.7930,"RNA polymerase B subunit RPB8, putative",BSF,0.410225498
+Tb927.11.8220,aurora B kinase,BSF,-2.675589724
+Tb927.11.8370,Nucleus and spindle associated protein 1,BSF,0.820315803
+Tb927.11.8920,"Centrosomal protein of 120 kDa, putative",BSF,-1.35810697
+Tb927.11.9300,"Domain of unknown function (DUF3342), putative",BSF,0.349137074
+Tb927.11.9860,"EF-hand domain pair, putative",BSF,-0.11398272
+Tb927.11.9870,Telomere-associated protein 1,BSF,0.253015255
+Tb927.2.1820,"CAMK/CAMKL family protein kinase, putative",BSF,0.666439341
+Tb927.2.2670,histone H4 variant,BSF,2.501187988
+Tb927.2.3720,"ubiquitin-conjugating enzyme, putative",BSF,-2.569730455
+Tb927.2.380,"retrotransposon hot spot protein 2 (RHS2), putative",BSF,0.452756708
+Tb927.2.4540,"Small nuclear ribonucleoprotein-associated protein B (snRNP-B) (Sm protein B) (Sm-B) (SmB), putative",BSF,0.139093965
+Tb927.2.4930,"esterase, putative",BSF,1.152892138
+Tb927.2.5850,small nuclear ribonucleoprotein SmD2,BSF,0.023844879
+Tb927.3.1340,Nuclear cap-binding protein subunit 66,BSF,0.493293725
+Tb927.3.1970,"phosphopantothenoylcysteine synthetase, putative",BSF,0.446774128
+Tb927.3.2020,"kinesin, putative",BSF,3.903348832
+Tb927.3.2280,"vacuolar sorting protein 33 , putative",BSF,0.284163031
+Tb927.3.2330,kinetoplastid kinetochore protein 17,BSF,-1.148892486
+Tb927.3.2340,Peroxisome biogenesis protein 2,BSF,1.424572546
+Tb927.3.2820,"TFIIF-stimulated CTD phosphatase, putative",BSF,0.142350279
+Tb927.3.2870,"multicopper oxidase, putative",BSF,0.54693951
+Tb927.3.3120,"hypothetical protein, conserved",BSF,0.773945661
+Tb927.3.3270,"ATP-dependent 6-phosphofructokinase, glycosomal",BSF,1.26168699
+Tb927.3.3480,"U2 small nuclear ribonucleoprotein B, putative",BSF,-0.716806008
+Tb927.3.3640,bardet-biedl syndrome 7 protein,BSF,0.482023685
+Tb927.3.3950,"hypothetical protein, conserved",BSF,-1.923982502
+Tb927.3.4000,"clathrin coat assembly protein ap19, putative",BSF,0.076016253
+Tb927.3.4270,"hypothetical protein, conserved",BSF,-2.089647599
+Tb927.3.4500,"Fumarate hydratase class I, cytosolic",BSF,0.397212747
+Tb927.3.4950,"hypothetical protein, conserved",BSF,0.920482807
+Tb927.3.720,zinc finger protein 3,BSF,-0.769909488
+Tb927.3.760,"hypothetical protein, conserved",BSF,0.348492021
+Tb927.3.860,"Acyl carrier protein, mitochondrial",BSF,-0.00227432
+Tb927.4.1120,"hypothetical protein, conserved",BSF,-0.684022561
+Tb927.4.2400,"hypothetical protein, conserved",BSF,0.271744647
+Tb927.4.3430,"hypothetical protein, conserved",BSF,0.084295677
+Tb927.4.3800,"hypothetical protein, conserved",BSF,0.459476458
+Tb927.4.5120,"hypothetical protein, conserved",BSF,-2.044772255
+Tb927.5.1130,"hypothetical protein, conserved",BSF,0.953551027
+Tb927.5.1620,"hypothetical protein, conserved",BSF,-1.471086297
+Tb927.5.1960,"hypothetical protein, conserved",BSF,-1.156058098
+Tb927.5.3310,"hypothetical protein, conserved",BSF,-1.96759975
+Tb927.5.4320,Pre-mRNA polyadenylation factor FIP1,BSF,0.776705798
+Tb927.5.630,"acidic phosphatase, putative",BSF,-0.94143479
+Tb927.5.930,NADH-dependent fumarate reductase,BSF,0.512110816
+Tb927.6.1540,"Yip1 domain containing protein, putative",BSF,-0.282342245
+Tb927.6.2700,small nuclear ribonucleoprotein Sm-E,BSF,-0.267260418
+Tb927.6.2900,dendritic cell-derived IFNG-induced protein,BSF,-2.292196624
+Tb927.6.2940,"phosphopantothenoylcysteine decarboxylase, putative",BSF,0.195869036
+Tb927.6.3220,"hypothetical protein, conserved",BSF,0.882426581
+Tb927.6.3290,intraflagellar transport protein 20,BSF,-0.290961951
+Tb927.6.3990,"hypothetical protein, conserved",BSF,0.61136186
+Tb927.6.4170,"hypothetical protein, conserved",BSF,-0.409347165
+Tb927.6.4820,chromosomal passenger complex protein 1,BSF,-2.753633609
+Tb927.6.560,cysteine peptidase C (CPC),BSF,0.064197206
+Tb927.6.570,conserved protein,BSF,-0.275959956
+Tb927.7.2160,"hypothetical protein, conserved",BSF,-1.505795343
+Tb927.7.2440,"pyrroline-5-carboxylate reductase, putative",BSF,0.153412611
+Tb927.7.2980,"Nitroreductase family, putative",BSF,0.303062831
+Tb927.7.3220,"ChaC-like protein, putative",BSF,-1.734858115
+Tb927.7.4170,Fatty acid elongase,BSF,0.341402153
+Tb927.7.4370,"hypothetical protein, conserved",BSF,-2.775633275
+Tb927.7.4390,"threonine synthase, putative",BSF,2.972255033
+Tb927.7.4440,"NAD dependent epimerase/dehydratase family, putative",BSF,0.650851997
+Tb927.7.4680,"hypothetical protein, conserved",BSF,-1.564363012
+Tb927.7.5320,"hypothetical protein, conserved",BSF,-1.969622628
+Tb927.7.5670,"hypothetical protein, conserved",BSF,-0.26199963
+Tb927.7.5720,"hypothetical protein, conserved",BSF,0.435610122
+Tb927.7.5730,"hypothetical protein, conserved",BSF,-0.52747836
+Tb927.7.5950,"protein associated with differentiation 3, putative",BSF,0.104366397
+Tb927.7.6770,"Acyl CoA binding protein, putative",BSF,-0.314873043
+Tb927.7.6790,"hypothetical protein, conserved",BSF,-1.49776538
+Tb927.7.6810,"EF-hand domain pair, putative",BSF,-0.022535386
+Tb927.7.6900,Sister chromatid cohesion protein 1,BSF,-2.210906443
+Tb927.7.6930,"ATPase, putative",BSF,0.56556077
+Tb927.7.7160,"kinetoplastid-specific dual specificity phosphatase, putative",BSF,-1.234048389
+Tb927.7.7500,"thymine-7-hydroxylase, putative",BSF,-0.337861889
+Tb927.8.2120,"hypothetical protein, conserved",BSF,0.569345195
+Tb927.8.2150,"hypothetical protein, conserved",BSF,-1.258120612
+Tb927.8.2380,"ABC transporter, putative",BSF,-0.293883151
+Tb927.8.3270,hypothetical protein,BSF,0.721282049
+Tb927.8.3460,"Ring finger domain containing protein, putative",BSF,-2.599534603
+Tb927.8.3530,"glycerol-3-phosphate dehydrogenase [NAD+], glycosomal",BSF,2.337824895
+Tb927.8.3780,"MORN repeat, putative",BSF,-0.468675344
+Tb927.8.3800,"guanosine diphosphatase, putative",BSF,-0.132387824
+Tb927.8.4190,"hypothetical protein, conserved",BSF,-2.022847658
+Tb927.8.4240,"hypothetical protein, conserved",BSF,0.176744494
+Tb927.8.560,"hypothetical protein, conserved",BSF,0.225116257
+Tb927.8.6000,"fatty acid desaturase, putative",BSF,-3.270087664
+Tb927.8.6490,Basal body protein,BSF,1.60788408
+Tb927.8.6750,"translationally controlled tumor protein (TCTP), putative",BSF,0.468558933
+Tb927.8.730,"nucleolar RNA-binding protein, putative",BSF,-0.321568503
+Tb927.8.960,"hypothetical protein, conserved",BSF,-3.193799983
+Tb927.9.10250,small nuclear ribonucleoprotein Sm-F,BSF,0.046501048
+Tb927.9.10470,"hypothetical protein, conserved",BSF,-0.734102478
+Tb927.9.11580,glycosomal membrane protein,BSF,1.865746092
+Tb927.9.11600,glycosomal membrane protein,BSF,2.585130649
+Tb927.9.12290,Peroxin 19,BSF,-0.04885278
+Tb927.9.12630,"glycerol kinase, glycosomal",BSF,1.353826384
+Tb927.9.13070,Heat shock factor binding 1 domain-containing protein,BSF,0.151058817
+Tb927.9.14290,Cytokinesis initiation factor 2,BSF,-2.030542301
+Tb927.9.15450,"Domain of unknown function (DUF4205), putative",BSF,0.036264447
+Tb927.9.1720,"peroxisomal membrane protein 4, putative",BSF,1.40189108
+Tb927.9.1850,"60S ribosomal protein L35, putative",BSF,-0.637865983
+Tb927.9.2070,"hypothetical protein, conserved",BSF,0.587483513
+Tb927.9.2760,"EB1-like C-terminal motif containing protein, putative",BSF,-2.00135779
+Tb927.9.5710,general transcription factor IIB,BSF,-0.756785022
+Tb927.9.6760,"hypothetical protein, conserved",BSF,-1.44652513
+Tb927.9.9520,"zinc finger protein family member, putative",BSF,-2.537930749
+Tb927.9.9810,"hypothetical protein, conserved",BSF,0.126938984
+Tb927.10.6060,universal minicircle sequence binding protein 2,PCF,0.47129024
+Tb927.5.440,"trans-sialidase, putative",PCF,-1.535833493
+Tb927.1.1270,"homocysteine S-methyltransferase, putative",PCF,-1.270856968
+Tb927.1.190,"retrotransposon hot spot protein (RHS, pseudogene), putative",PCF,0.334913329
+Tb927.1.3880,"Fusaric acid resistance protein-like, putative",PCF,0.055728902
+Tb927.10.10780,"hypothetical protein, conserved",PCF,-0.931981151
+Tb927.10.11020,"DNA mismatch repair protein MSH2, putative",PCF,-1.487897445
+Tb927.10.11270,"RNA-binding protein, putative",PCF,-2.292326022
+Tb927.10.11340,"hypothetical protein, conserved",PCF,-3.08547308
+Tb927.10.11990,"60S ribosome subunit biogenesis protein NIP7, putative",PCF,-1.999924427
+Tb927.10.12130,"Ubiquitin family, putative",PCF,0.21549466
+Tb927.10.12440,"kinesin, putative",PCF,0.26661062
+Tb927.11.9730,"60S ribosomal protein L34, putative",PCF,-0.165738793
+Tb927.10.14330,"Utp14 protein, putative",PCF,-2.197335359
+Tb927.10.15540,predicted VPS53-like domain protein,PCF,-0.1183413
+Tb927.10.2010,hexokinase,PCF,3.650837646
+Tb927.10.3280,"60S ribosomal proteins L38, putative",PCF,-0.661929929
+Tb927.10.3380,"60S acidic ribosomal protein P2, putative",PCF,-0.730769872
+Tb927.10.4280,ubiquinol-cytochrome c reductase complex 14 kda protein,PCF,-0.180178647
+Tb927.10.4620,"peptidyl-prolyl cis-trans isomerase, putative",PCF,-1.153362149
+Tb927.10.4930,"protein phosphatase 2C, putative",PCF,0.673925082
+Tb927.10.5780,"amino acid tansporter, putative",PCF,-0.970628391
+Tb927.10.6010,"Cohesin subunit SCC3, putative",PCF,-2.45312296
+Tb927.10.6070,universal minicircle sequence binding protein 1,PCF,0.64229798
+Tb927.10.7620,"mitochondrial ATP-dependent zinc metallopeptidase, putative",PCF,-2.159813078
+Tb927.10.7730,"Domain of unknown function (DUF4496), putative",PCF,-0.62197546
+Tb927.10.7740,protein transport protein SEC23,PCF,-0.462650488
+Tb927.10.8240,"hypothetical protein, conserved",PCF,-1.731470303
+Tb927.10.8710,centrin-3,PCF,-1.667433999
+Tb927.10.8980,"hypothetical protein, conserved",PCF,-1.166361026
+Tb927.10.9080,"pteridine transporter, putative",PCF,-0.921983546
+Tb927.11.10620,"hypothetical protein, conserved",PCF,-0.101821506
+Tb927.11.11620,"hypothetical protein, conserved",PCF,0.61144958
+Tb927.11.11750,"membrane-bound acid phosphatase, putative",PCF,-1.898555292
+Tb927.11.12410,kinetoplastid kinetochore protein 10,PCF,-2.951242291
+Tb927.11.12820,ribonucleoside-diphosphate reductase small chain,PCF,-1.9339074
+Tb927.11.1300,"UBA/TS-N domain containing protein, putative",PCF,0.150183772
+Tb927.11.13270,"hypothetical protein, conserved",PCF,-0.893297198
+Tb927.11.13520,"hypothetical protein, conserved",PCF,-1.941208897
+Tb927.11.13710,"hypothetical protein, conserved",PCF,-1.483616268
+Tb927.11.13740,procyclic-enriched flagellar receptor adenylate cyclase 5,PCF,-1.988362403
+Tb927.11.14750,"PSP1 C-terminal conserved region, putative",PCF,-3.26906891
+Tb927.11.14900,coatomer subunit epsilon,PCF,0.041567035
+Tb927.11.15240,"Ras-related protein RAB2B, putative",PCF,0.203606307
+Tb927.11.15800,Cytokinesis initiation factor 1,PCF,-1.379666068
+Tb927.11.16390,"cyclin dependent kinases regulatory subunit, putative",PCF,-1.316732553
+Tb927.11.16750,"hypothetical protein, conserved",PCF,-1.152355319
+Tb927.11.2260,Eukaryotic translation initiation factor 4E-1,PCF,0.095703027
+Tb927.11.3320,"ras-like small GTPase, putative",PCF,0.598895042
+Tb927.11.3580,"Thiamin pyrophosphokinase, vitamin B1 binding domain containing protein, putative",PCF,0.207984972
+Tb927.11.5520,triosephosphate isomerase,PCF,0.94910227
+Tb927.11.5940,"receptor-type adenylate cyclase GRESAG 4, putative",PCF,-2.826637623
+Tb927.11.5960,"hypothetical protein, conserved",PCF,0.930776952
+Tb927.11.6040,"Nodulin-like, putative",PCF,1.95902894
+Tb927.11.6340,"PUB domain containing protein, putative",PCF,-0.92072681
+Tb927.11.6420,"hypothetical protein, conserved",PCF,-2.555370036
+Tb927.11.7050,"PA domain containing protein, putative",PCF,-2.104711209
+Tb927.11.7130,"hypothetical protein, conserved",PCF,-0.308186265
+Tb927.11.7560,Component of motile flagella 15,PCF,2.244355058
+Tb927.11.7600,"hypothetical protein, conserved",PCF,-2.401461083
+Tb927.11.7780,Mitochondrial import receptor subunit ATOM46,PCF,3.599525867
+Tb927.11.7850,"hypothetical protein, conserved",PCF,0.000133857
+Tb927.11.7930,"RNA polymerase B subunit RPB8, putative",PCF,-0.099426764
+Tb927.11.9860,"EF-hand domain pair, putative",PCF,0.093038188
+Tb927.11.9870,Telomere-associated protein 1,PCF,-0.763793635
+Tb927.2.2670,histone H4 variant,PCF,0.887511277
+Tb927.2.380,"retrotransposon hot spot protein 2 (RHS2), putative",PCF,0.545379215
+Tb927.2.4540,"Small nuclear ribonucleoprotein-associated protein B (snRNP-B) (Sm protein B) (Sm-B) (SmB), putative",PCF,0.058904503
+Tb927.2.4930,"esterase, putative",PCF,1.567407931
+Tb927.2.5850,small nuclear ribonucleoprotein SmD2,PCF,-0.16982418
+Tb927.3.1340,Nuclear cap-binding protein subunit 66,PCF,-0.623328649
+Tb927.3.1970,"phosphopantothenoylcysteine synthetase, putative",PCF,0.864999829
+Tb927.3.2820,"TFIIF-stimulated CTD phosphatase, putative",PCF,-0.074433578
+Tb927.3.3270,"ATP-dependent 6-phosphofructokinase, glycosomal",PCF,0.863299916
+Tb927.3.3950,"hypothetical protein, conserved",PCF,-1.808970225
+Tb927.3.4270,"hypothetical protein, conserved",PCF,-2.579345283
+Tb927.3.4500,"Fumarate hydratase class I, cytosolic",PCF,3.435567178
+Tb927.3.4950,"hypothetical protein, conserved",PCF,1.0057553
+Tb927.3.720,zinc finger protein 3,PCF,-0.040962128
+Tb927.3.760,"hypothetical protein, conserved",PCF,0.584642187
+Tb927.3.860,"Acyl carrier protein, mitochondrial",PCF,0.312836671
+Tb927.4.2400,"hypothetical protein, conserved",PCF,1.08213956
+Tb927.5.2730,"hypothetical protein, conserved",PCF,-0.363559954
+Tb927.5.930,NADH-dependent fumarate reductase,PCF,1.44814025
+Tb927.6.1540,"Yip1 domain containing protein, putative",PCF,-0.515855347
+Tb927.6.200,"receptor-type adenylate cyclase GRESAG 4, putative",PCF,-2.92210253
+Tb927.6.2700,small nuclear ribonucleoprotein Sm-E,PCF,-0.536392986
+Tb927.6.3220,"hypothetical protein, conserved",PCF,1.85279392
+Tb927.6.3290,intraflagellar transport protein 20,PCF,0.182746652
+Tb927.6.3690,"pre-mRNA cleavage complex II Clp1-like, conserved",PCF,-0.690709919
+Tb927.6.4580,"Mitochondrial SSU ribosomal protein, putative",PCF,-1.01425886
+Tb927.6.570,conserved protein,PCF,-2.062419788
+Tb927.7.2160,"hypothetical protein, conserved",PCF,-2.965830496
+Tb927.7.3220,"ChaC-like protein, putative",PCF,-1.163913159
+Tb927.7.4390,"threonine synthase, putative",PCF,0.515839207
+Tb927.7.5320,"hypothetical protein, conserved",PCF,-1.315463398
+Tb927.7.5330,"hypothetical protein, conserved",PCF,-0.948327128
+Tb927.7.6770,"Acyl CoA binding protein, putative",PCF,0.64293714
+Tb927.7.6790,"hypothetical protein, conserved",PCF,-0.828502679
+Tb927.7.6900,Sister chromatid cohesion protein 1,PCF,-2.861080446
+Tb927.7.6930,"ATPase, putative",PCF,0.537536131
+Tb927.8.1420,"acyl-CoA dehydrogenase, mitochondrial precursor, putative",PCF,0.359449076
+Tb927.8.2550,mitochondrial DNA primase,PCF,-2.99251636
+Tb927.8.3270,hypothetical protein,PCF,0.874654671
+Tb927.8.3530,"glycerol-3-phosphate dehydrogenase [NAD+], glycosomal",PCF,1.759178251
+Tb927.8.4190,"hypothetical protein, conserved",PCF,-2.44256877
+Tb927.8.4880,DNA polymerase alpha catalytic subunit,PCF,-2.598063243
+Tb927.8.560,"hypothetical protein, conserved",PCF,0.82296954
+Tb927.8.6000,"fatty acid desaturase, putative",PCF,-2.925296374
+Tb927.8.6530,"SET domain containing protein, putative",PCF,-0.351908569
+Tb927.8.6750,"translationally controlled tumor protein (TCTP), putative",PCF,1.311612846
+Tb927.8.840,"hypothetical protein, conserved",PCF,-0.804870564
+Tb927.8.960,"hypothetical protein, conserved",PCF,-2.609524344
+Tb927.9.10250,small nuclear ribonucleoprotein Sm-F,PCF,-0.685021689
+Tb927.9.10470,"hypothetical protein, conserved",PCF,-1.023978738
+Tb927.9.11600,glycosomal membrane protein,PCF,3.801810162
+Tb927.9.12290,Peroxin 19,PCF,-0.068674267
+Tb927.9.12630,"glycerol kinase, glycosomal",PCF,5.545264821
+Tb927.9.13070,Heat shock factor binding 1 domain-containing protein,PCF,-1.336180424
+Tb927.9.13200,hypothetical protein,PCF,-2.210546453
+Tb927.9.1340,Myosin-like protein 2,PCF,-3.115013409
+Tb927.9.13540,"hypothetical protein, conserved",PCF,0.03339887
+Tb927.9.14290,Cytokinesis initiation factor 2,PCF,-2.398008538
+Tb927.9.1850,"60S ribosomal protein L35, putative",PCF,-0.200923414
+Tb927.9.2760,"EB1-like C-terminal motif containing protein, putative",PCF,-2.693583136
+Tb927.9.5710,general transcription factor IIB,PCF,-1.342049317
+Tb927.9.9520,"zinc finger protein family member, putative",PCF,-3.10968779
+Tb927.9.9810,"hypothetical protein, conserved",PCF,-0.225573531
