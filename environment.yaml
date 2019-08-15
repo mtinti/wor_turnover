@@ -1,6 +1,7 @@
 name: prediction
 channels:
   - plotly
+  - phlya
   - anaconda
   - conda-forge
   - bioconda
@@ -218,6 +219,7 @@ dependencies:
   - python=3.6.8=haf84260_0
   - scikit-learn=0.20.0=py36h4f467ca_1
   - scipy=1.1.0=py36h28f7352_1
+  - adjusttext=0.7.2=pyh39e3cac_0
   - plotly=3.8.1=py_0
   - pip:
     - awscli==1.11.161
