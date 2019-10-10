@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/200864653.svg)](http://dx.doi.org/10.12688/wellcomeopenres.15421.1)
+[![DOI](https://img.shields.io/badge/Wellcome%20Open%20Research%20-published-green.svg)](http://dx.doi.org/10.12688/wellcomeopenres.15421.1)
+
 ![title](wcar.png)
 # Proteome Turnover in Bloodstream and Procyclic form of Trypanosoma brucei Measured by Quantitative Proteomics
 ## This repository contains the scripts used for the data analysis
